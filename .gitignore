@@ -1,6 +1,12 @@
 *~
 Junk*
 Old*
+*\.aux
+*\.log
+*\.out
+quotes\.html
+quotes\.tex
+web-token
 
 # Mac OS generates
 .DS_Store
