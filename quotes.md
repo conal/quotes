@@ -287,7 +287,7 @@ Kabir
 
 "They are ill discoverers that think there is no land, when they can see nothing but sea." - Francis Bacon
 
-"Any intelligent fool can make things bigger and more complex ... it takes a touch of genius -- and a lot of courage -- to move in the opposite direction." - Albert Einstein
+"Any intelligent fool can make things bigger, more complex and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction" - Albert Einstein
 
 "Let yourself be open and life will be easier. A spoon of salt in a glass of water makes the water undrinkable. A spoon of salt in a lake is almost unnoticed." - Buddha
 
