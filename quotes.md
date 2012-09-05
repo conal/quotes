@@ -1,4 +1,4 @@
-# Some of my favorite quotes
+% Some of my favorite quotes
 
 "We ascribe beauty to that which is simple; which has no superfluous parts; which exactly answers its end; which stands related to all things; which is the mean of many extremes." - Ralph Waldo Emerson
 
@@ -61,7 +61,7 @@ and any thing could happen.
 
 Kabir
 
-"War is an instrument entirely inefficient toward redressing wrong; and multiplies, instead of indemnifying losses." - homa Jefferson
+"War is an instrument entirely inefficient toward redressing wrong; and multiplies, instead of indemnifying losses." - Thomas Jefferson
 
 "It is preoccupation with possessions, more than anything else, that prevents us from living freely and nobly." - Bertrand Russell
 
@@ -429,7 +429,7 @@ Kabir
               
 "Good judgment comes from experience, and experience comes from bad judgment." - Barry LePatner
 
-"Humanity has been sleeping--and still sleeps--lulled within the narrowly confining joys of its little closed loves.  In the depths of the human multitude there slumbers an immense spiritual power which will manifest itself only when we have learnt how to break through the dividing walls of our egoism and raise ourselves up to an entirely new perspective, so that habitually and in a practical fashion we fix our gaze on the universal realities." - Pierre Teilhard de Chardin
+"Humanity has been sleeping--and still sleeps--lulled within the narrowly confining joys of its little closed loves. In the depths of the human multitude there slumbers an immense spiritual power which will manifest itself only when we have learnt how to break through the dividing walls of our egoism and raise ourselves up to an entirely new perspective, so that habitually and in a practical fashion we fix our gaze on the universal realities." - Pierre Teilhard de Chardin
 
 "The life of every man is a diary in which he means to write one story, and writes another, and his humblest hour is when he compares the volume as it is with what he vowed to make it." - James Barrie
 
@@ -537,7 +537,7 @@ Kabir
 
 "Only mediocrity can be trusted to be always at its best.  Genius must always have lapses proportionate to its triumphs." - Max Beerbohm
 
-"Those who are enamored of practice without theory are like a pilot who goes into a ship without rudder or compass and never has any certainty where he is going.  Practice should always be based on a sound knowledge of theory." - eonard da Vinci
+"Those who are enamored of practice without theory are like a pilot who goes into a ship without rudder or compass and never has any certainty where he is going.  Practice should always be based on a sound knowledge of theory." - Leonardo da Vinci
 
 "IV.17  When you meet someone better than yourself, turn your thoughts to becoming his equal.  When you meet someone not as good as you are, look within and examine your own self." - Confucius
 
@@ -549,7 +549,7 @@ Kabir
 
 "Religion is a defense against the experience of God." - Carl Gustav Jung
 
-"The discovery of this reality is hindered rather than helped by belief, whether one believes in God or believes in atheism. We must make here a clear distinction between belief and faith, because, in general practice, belief has come to mean a state of mind which is almost the opposite of faith. Belief, as I use the word here, is the insistence that the truth is what one would 'lief' or wish it to be. The believer will open his mind to the truth on the condition that it fits in with his preconceived ideas and wishes. Faith, on the other hand, is an unreserved opening of the mind to the truth, whatever it may turn out to be. Faith has no preconceptions; it is a plunge into the unknown. Belief clings, but faith lets go. In this sense of the word, faith is the essential virtue of science, and likewise of any religion that is not self-deception. " - Alan Watts
+"The discovery of this reality is hindered rather than helped by belief, whether one believes in God or believes in atheism. We must make here a clear distinction between belief and faith, because, in general practice, belief has come to mean a state of mind which is almost the opposite of faith. Belief, as I use the word here, is the insistence that the truth is what one would 'lief' or wish it to be. The believer will open his mind to the truth on the condition that it fits in with his preconceived ideas and wishes. Faith, on the other hand, is an unreserved opening of the mind to the truth, whatever it may turn out to be. Faith has no preconceptions; it is a plunge into the unknown. Belief clings, but faith lets go. In this sense of the word, faith is the essential virtue of science, and likewise of any religion that is not self-deception." - Alan Watts
 
 "The object of mathematical rigor is to sanction and legitimize the conquests of intuition, and there was never any other object for it." - Jacques Hadamard
 
@@ -683,7 +683,7 @@ Rumi, Mathnawi II: 2327-2332, version by Camille and Kabir Helminski, [posted to
 
 "Hard writing is easy reading; easy writing is hard reading." - E.B. White
 
-"Your task is not to seek love, but to seek and find all the barriers within yourself that you have built against it." - Course in Miracles
+"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." - Rumi
 
 "Learning is remembering what you're interested in." - Richard Saul Wurman
 
@@ -1033,8 +1033,6 @@ The struggle between for and against is the mind's worst disease.
 
 "All religions are equally sublime to the ignorant, useful to the politician and ridiculous to the philosopher." - Lucretius
 
-"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." - Rumi
-
 "Our life is frittered away by detail. Simplify, simplify." - Henry David Thoreau
 
 "What we think, we become." - Buddha (via Garr Reynolds)
@@ -1213,7 +1211,7 @@ The struggle between for and against is the mind's worst disease.
 
 "Thesis, antithesis, synthesis -- most of us only take the first or second steps." - Edward Craig (@NewMindMirror)
 
-"And those who were seen dancing were thought to be insane by those who could not hear the music." - George Carlin (or Friedrich Wilhelm Nietzsche?)
+"And those who were seen dancing were thought to be insane by those who could not hear the music." - Friedrich Wilhelm Nietzsche (or George Carlin? [Uncertain](http://quoteinvestigator.com/2012/06/05/dance-insane/))
 
 "Lovers don't finally meet somewhere. They're in each other all along." - Rumi
 
@@ -1263,7 +1261,7 @@ The struggle between for and against is the mind's worst disease.
 
 "In the future, we will hold jealousy as a call for support, not a proof of love. A love where no one sacrifices to another, but grace is evoked through the sharing of deep vulnerability." - Kelly Bryson
 
-"drop the story line, which means instead of acting out/repressing—use the situation as an opportunity to feel your heart, to feel the wound." - Pema Chödrön
+"drop the story line, which means instead of acting out/repressing--use the situation as an opportunity to feel your heart, to feel the wound." - Pema Chödrön
 
 "Feel the wounded heart that's underneath the addiction, self-loathing, or anger."- Pema Chödrön
 
@@ -1326,3 +1324,27 @@ The struggle between for and against is the mind's worst disease.
 "Worrying is using your imagination to create something you don’t want." - Esther Hicks
 
 "...Simplifications have had a much greater long-range scientific impact than individual feats of ingenuity. The opportunity for simplification is very encouraging, because in all examples that come to mind the simple and elegant systems tend to be easier and faster to design and get right, more efficient in execution, and much more reliable than the more contrived contraptions that have to be debugged into some degree of acceptability....Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated." - [Edsger Dijkstra](http://books.google.com/books?id=9P5uwNpP1JAC&pg=PA62&dq=%22Simplifications+have+had+a+much+greater+long-range+scientific+impact+than+individual+feats+of+ingenuity.+The+opportunity+for+simplification+is+very+encouraging,+because+in+all+examples+that+come+to+mind+the+simple+and+elegant+systems+tend+to+be+easier+and+faster+to+design+and+get+right,+more+efficient+in+execution,+and+much+more+reliable+than+the+more+contrived+contraptions+that+have+to+be+debugged+into+some+degree+of+acceptability.%22+%22Simplicity+and+elegance+are+unpopular+because+they+require+hard+work+and+discipline+to+achieve+and+education+to+be+appreciated%22)
+
+"Of all tyrannies, a tyranny exercised for the good of its victims may be the most oppressive. It may be better to live under robber barons than under omnipotent moral busybodies. The robber baron's cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end, for they do so with the approval of their consciences." - C.S. Lewis
+
+"Compassion is not a relationship between the healer and the wounded. It's a relationship between equals. Only when we know our own darkness well can we be present with the darkness of others. Compassion becomes real when we recognize our shared humanity." ~Pema Chödrön (*The Places That Scare You: A Guide to Fearlessness in Difficult Times*)
+
+"Physics is like sex: sure, it may give some practical results, but that's not why we do it." - Richard P. Feynman
+
+"Reality is that which, when you stop believing in it, doesn't go away." - Philip K. Dick
+
+"In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true." - Buddha
+
+"The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise." - Edsger Dijkstra
+
+"If you don't stick to your values when they're being tested, they aren't values. They're hobbies."  - Jon Stewart
+
+"We think we understand the rules when we become adults but what we really experience is a narrowing of the imagination." - David Lynch
+
+"We must do away with the absolutely specious notion that everybody has to earn a living. It is a fact today that one in ten thousand of us can make a technological breakthrough capable of supporting all the rest. The youth of today are absolutely right in recognizing this nonsense of earning a living. We keep inventing jobs because of this false idea that everybody has to be employed at some kind of drudgery because, according to Malthusian-Darwinian theory, he must justify his right to exist. So we have inspectors of inspectors and people making instruments for inspectors to inspect inspectors. The true business of people should be to go back to school and think about whatever it was they were thinking about before somebody came along and told them they had to earn a living." - Buckminster Fuller
+
+"Don't ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive." - Howard Thurman
+
+"If I had asked people what they wanted, they would have said faster horses." - Henry Ford
+
+"It has long been my personal view that the separation of practical and theoretical work is artificial and injurious. Much of the practical work done in computing, both in software and in hardware design, is unsound and clumsy because the people who do it have not any clear understanding of the fundamental design principles of their work. Most of the abstract mathematical and theoretical work is sterile because it has no point of contact with real computing. One of the central aims of the Programming Research Group as a teaching and research group has been to set up an atmosphere in which this separation cannot happen." - Christopher Strachey ([citation](http://www.cs.ox.ac.uk/activities/concurrency/courses/stracheys.html))
