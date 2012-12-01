@@ -1,5 +1,7 @@
 default: quotes.html
 
+see: quotes.see
+
 POPTS+=--standalone
 POPTS+=--smart
 #POPTS+=--css=style.css
@@ -16,7 +18,7 @@ POPTS+=--smart
 %.pdf: %.tex Makefile
 	pdflatex $*.tex
 
-%.see: %
+%.see: %.html
 	open $<
 
 push: web

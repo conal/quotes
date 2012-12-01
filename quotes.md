@@ -52,12 +52,11 @@
 
 "A cynic is not merely one who reads bitter lessons from the past; he is one who is prematurely disappointed in the future." - Sydney J. Harris
 
-<pre class=poem>
-Do not praise yourself
-not slander others:
-There are still many days to go
+ >
+Do not praise yourself  
+not slander others:  
+There are still many days to go  
 and any thing could happen.
-</pre>
 
 Kabir
 
@@ -164,6 +163,8 @@ Kabir
 "Walking is also an ambulation of mind." - Gretel Ehrlich
 
 "The teacher is like the candle which lights others in consuming itself." - Giovanni Ruffini
+
+"How often is it a phantom woman who draws the man from the way he meant to go? So was man created, to hunger for the ideal that is above himself, until one day there is magic in the air, and the eyes of a girl rest upon him. He does not know that it is he himself who crowned her, and if the girl is as pure as he, their love is the one form of idolatry that is not quite ignoble. It is the joining of two souls on their way to God. But if the woman be bad, the test of the man is when he wakens from his dream. The nobler his ideal, the further will he have been hurried down the wrong way, for those who only run after little things will not go far. His love may now sink into passion, perhaps only to stain its wings and rise again, perhaps to drown." - James Barrie (The Little Minister, Chapter 1: The Love-Light)
 
 "The praise that comes of love does not make us vain, but humble rather. Knowing what we are, the pride that shines in our mother's eyes as she looks at us, is about the most pathetic thing a man has to face, but he would be a devil altogether if it did not burn some of the sin out of him." - James Barrie
 
@@ -425,7 +426,7 @@ Kabir
 
 "A human being is a part of a whole, called by us 'universe', a part limited in time and space.  He experiences himself, his thoughts and feelings, as something separate from the rest - a kind of optical delusion of consciousness.  This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us.  Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty." - Albert Einstein
 
-"Enlightenment must come little by little-otherwise it would overwhelm." - Idries Shah
+"Enlightenment must come little by little--otherwise it would overwhelm." - Idries Shah
               
 "Good judgment comes from experience, and experience comes from bad judgment." - Barry LePatner
 
@@ -467,7 +468,7 @@ Kabir
 
 "I hope for nothing.  I fear nothing.  I am free." - Nikos Kazantzakis
 
-"The tao that can be spoken, is not the true Tao." - Lao Tzu
+"The Tao that can be spoken is not the true Tao." - Lao Tzu
 
 "The best practice is inspired by theory." - Donald Knuth
 
@@ -527,7 +528,7 @@ Kabir
 
 "Talent hits a target no one else can hit.  Genius hits a target no one else can see." - Arthur Schopenhauer
 
-"Only short programs have any hope of being correct. " - Arthur Whitney
+"Only short programs have any hope of being correct." - Arthur Whitney
 
 "The answers you get depend upon the questions you ask." - Thomas Kuhn
 
@@ -655,19 +656,18 @@ I remember thinking "how simple, no qualms of conscience, no soul-searching, no 
 
 "Man suffers because of his craving to possess and keep forever things which are impermanent." - Alan Watts
 
-<pre class=poem>
-Conventional opinion is the ruin of our souls,
-something borrowed which we mistake as our own.
-Ignorance is better than this; clutch at madness instead.
-Always run from what seems to benefit your self:
-sip the poison and spill the water of life.
-Revile those who flatter you;
-lend both interest and principal to the poor.
-Let security go and be at home amidst dangers.
-Leave your good name behind and accept disgrace.
-I have lived with cautious thinking;
+ >
+Conventional opinion is the ruin of our souls,  
+something borrowed which we mistake as our own.  
+Ignorance is better than this; clutch at madness instead.  
+Always run from what seems to benefit your self:  
+sip the poison and spill the water of life.  
+Revile those who flatter you;  
+lend both interest and principal to the poor.  
+Let security go and be at home amidst dangers.  
+Leave your good name behind and accept disgrace.  
+I have lived with cautious thinking;  
 now I'll make myself mad.
-</pre>
 
 Rumi, Mathnawi II: 2327-2332, version by Camille and Kabir Helminski, [posted to Sunlight](http://sunlightgroup.blogspot.com/2006/07/conventional-opinion-is-ruin-of-our.html)
 
@@ -687,7 +687,7 @@ Rumi, Mathnawi II: 2327-2332, version by Camille and Kabir Helminski, [posted to
 
 "Learning is remembering what you're interested in." - Richard Saul Wurman
 
-"I call intuition cosmic fishing. You feel a nibble, then you've got to hook the fish." -- Buckminster Fuller
+"I call intuition cosmic fishing. You feel a nibble, then you've got to hook the fish." -- Buckminster Fullero
 
 "We don't see things as they are, we see them as we are." - Anais Nin
 
@@ -1187,7 +1187,7 @@ The struggle between for and against is the mind's worst disease.
 
 "The purpose of visualization is insight, not pictures." - Ben Shneiderman
 
-"I wake up every day both wanting to change the world and to have one heck of a good time.  Sometimes this makes planning the day difficult."  E.B. White
+"I wake up every day both wanting to change the world and to have one heck of a good time.  Sometimes this makes planning the day difficult." - E.B. White
 
 "If something is not beautiful, it is probably not true." - John Keats
 
@@ -1201,7 +1201,7 @@ The struggle between for and against is the mind's worst disease.
 
 "The two Virtues of Equanimity and Compassion become more available to the person whose ego-shell has been smashed--either by great suffering or by great love--or by both." - Richard Rohr
 
-"Don't ask yourself what the world needs. Ask yourself what makes you come alive, and go do that, because what the world needs is people who have come alive." - Dr. Howard Thurman
+"Don't ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive." - Howard Thurman
 
 "An approximate answer to the right problem is worth a good deal more than an exact answer to an approximate problem." - John Tukey
 
@@ -1343,8 +1343,42 @@ The struggle between for and against is the mind's worst disease.
 
 "We must do away with the absolutely specious notion that everybody has to earn a living. It is a fact today that one in ten thousand of us can make a technological breakthrough capable of supporting all the rest. The youth of today are absolutely right in recognizing this nonsense of earning a living. We keep inventing jobs because of this false idea that everybody has to be employed at some kind of drudgery because, according to Malthusian-Darwinian theory, he must justify his right to exist. So we have inspectors of inspectors and people making instruments for inspectors to inspect inspectors. The true business of people should be to go back to school and think about whatever it was they were thinking about before somebody came along and told them they had to earn a living." - Buckminster Fuller
 
-"Don't ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive." - Howard Thurman
-
 "If I had asked people what they wanted, they would have said faster horses." - Henry Ford
 
 "It has long been my personal view that the separation of practical and theoretical work is artificial and injurious. Much of the practical work done in computing, both in software and in hardware design, is unsound and clumsy because the people who do it have not any clear understanding of the fundamental design principles of their work. Most of the abstract mathematical and theoretical work is sterile because it has no point of contact with real computing. One of the central aims of the Programming Research Group as a teaching and research group has been to set up an atmosphere in which this separation cannot happen." - Christopher Strachey ([citation](http://www.cs.ox.ac.uk/activities/concurrency/courses/stracheys.html))
+
+"People are so alienated from their own soul that when they meet their soul they think it comes from another star system." - Terence McKenna
+
+"Life becomes easier when you learn to accept an apology you never got." - Robert Brault
+
+"If you don't read the newspaper you are uninformed; if you do read the newspaper you are misinformed." - Mark Twain
+
+"The more room you give yourself to express your true thoughts and feelings, the more room there is for your wisdom to emerge." - Marianne Williamson
+
+"Creativity, as has been said, consists largely of rearranging what we know in order to find out what we do not know. Hence, to think creatively, we must be able to look afresh at what we normally take for granted." - George Kneller
+
+"We all operate in two contrasting modes, which might be called open and closed. The open mode is more relaxed, more receptive, more exploratory, more democratic, more playful and more humorous. The closed mode is the tighter, more rigid, more hierarchical, more tunnel-visioned. Most people, unfortunately spend most of their time in the closed mode. Not that the closed mode cannot be helpful. If you are leaping a ravine, the moment of takeoff is a bad time for considering alternative strategies. When you charge the enemy machine-gun post, don't waste energy trying to see the funny side of it. Do it in the "closed" mode. But the moment the action is over, try to return to the "open" mode—to open your mind again to all the feedback from our action that enables us to tell whether the action has been successful, or whether further action is need to improve on what we have done. In other words, we must return to the open mode, because in that mode we are the most aware, most receptive, most creative, and therefore at our most intelligent." - John Cleese
+
+"Discovery consists of seeing what everybody has seen and thinking what nobody has thought." - Albert von Szent-Gyorgy
+
+"Every act of creation is first of all an act of destruction." - Picasso
+
+"When you are completely absorbed or caught up in something, you become oblivious to things around you, or to the passage of time. It is this absorption in what you are doing that frees your unconscious and releases your creative imagination." - Dr. Rollo May
+
+"The joy is in creating, not maintaining." - Vince Lombardi
+
+"One cannot simultaneously prevent and prepare for war." - Albert Einstein
+
+"It is the questions in life that move us forward, not the answers." - Anon (heard a talk from Unity of Hawaii in a podcast about the Yin & Yang of attachment)
+
+"A different world cannot be built by indifferent people." - Horace Mann
+
+"Self-judgment is how conditioned mind keeps control over your life." - Cheri Huber
+
+"Nationalism is an infantile disease. It is the measels of mankind. Never do anything against conscience -- even if the state demands it." - Albert Einstein
+
+"To practice NVC, we must completely abandon the goal of getting other people to do what we want." - Marshall Rosenberg
+
+"As long as you make an identity for yourself out of pain, you cannot be free of it." - Eckhart Tolle
+
+"The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum -- even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate." - Noam Chomsky
