@@ -80,7 +80,7 @@ Kabir
 
 "If a man points at the moon, an idiot will look at the finger." - Sufi wisdom
 
-"A friend is a person with whom I may be sincere.  Before him I may think aloud." - Ralph Waldo Emerson
+"A friend is a person with whom I may be sincere. Before him I may think aloud." - Ralph Waldo Emerson
 
 "Happiness is the absence of the striving for happiness." - Chuang-tzu
 
@@ -94,9 +94,9 @@ Kabir
 
 "The liar's punishment is not in the least that he is not believed, but that he cannot believe anyone else." - George Bernard Shaw
 
-"He who fights with monsters might take care lest he thereby become a monster.  And if you gaze for long into an abyss, the abyss gazes also into you." - Friedrich Nietzsche
+"He who fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you." - Friedrich Nietzsche
 
-"Failures, repeated failures, are finger posts on the road to achievement.  One fails forward toward success." - Charles F. Kettering
+"Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success." - Charles F. Kettering
 
 "How much more grievous are the consequences of anger than the causes of it." - Marcus Aurelius
 
@@ -128,7 +128,7 @@ Kabir
 
 "We can throw stones, complain about them, stumble on them, climb over them, or build with them." - William Arthur Ward
 
-"If you don't make a total commitment to whatever you're doing, then you start looking to bail out the first time the boat starts leaking.  It's tough enough getting that boat to shore with everybody rowing, let alone when a guy stands up and starts putting his life jacket on." - Lou Holtz
+"If you don't make a total commitment to whatever you're doing, then you start looking to bail out the first time the boat starts leaking. It's tough enough getting that boat to shore with everybody rowing, let alone when a guy stands up and starts putting his life jacket on." - Lou Holtz
 
 "At times failure is very necessary for the artist. It reminds him that failure is not the ultimate disaster. And this reminder liberates him from the mean fussing of perfectionism." - John Berger
 
@@ -170,9 +170,9 @@ Kabir
 
 "Yet if he upbraided her in his hurry, it was to repent bitterly his temper the next, and to feel its effects more than she, temper being a weapon that we hold by the blade." - James Barrie
 
-"A great writer has spoken sadly of the shock it would be to a mother to know her boy as he really is, but I think she often knows him better than he is known to cynical friends.  We should be slower to think that the man at his worst is the real man, and certain that the better we are ourselves the less likely is he to be at his worst in our company.  Every time he talks away his own character before us he is signifying contempt for ours." - James Barrie
+"A great writer has spoken sadly of the shock it would be to a mother to know her boy as he really is, but I think she often knows him better than he is known to cynical friends. We should be slower to think that the man at his worst is the real man, and certain that the better we are ourselves the less likely is he to be at his worst in our company. Every time he talks away his own character before us he is signifying contempt for ours." - James Barrie
 
-"So Babbie loved the little minister for the best that she had ever seen in man.  I shall be told that she thought far more of him than he deserved, forgetting the mean in the worthy: but who that has had a glimpse of heaven will care to let his mind dwell henceforth on earth?  Love, it is said, is blind, but love is not blind.  It is an extra eye, which shows us what is most worthy of regard. To see the best is to see most clearly, and it is the lover's privilege." - James Barrie
+"So Babbie loved the little minister for the best that she had ever seen in man. I shall be told that she thought far more of him than he deserved, forgetting the mean in the worthy: but who that has had a glimpse of heaven will care to let his mind dwell henceforth on earth?  Love, it is said, is blind, but love is not blind. It is an extra eye, which shows us what is most worthy of regard. To see the best is to see most clearly, and it is the lover's privilege." - James Barrie
 
 "When we see men of a contrary character, we should turn inwards and examine ourselves." - Confucius
 
@@ -182,9 +182,9 @@ Kabir
 
 "You cannot be lonely if you like the person you're alone with." - Wayne Dyer
 
-"Security is not the meaning of my life.  Great opportunities are worth the risk." - Shirley Hufstedler
+"Security is not the meaning of my life. Great opportunities are worth the risk." - Shirley Hufstedler
 
-"Dreams have only one owner at a time.  That's why dreamers are lonely." - Erma Bombeck
+"Dreams have only one owner at a time. That's why dreamers are lonely." - Erma Bombeck
 
 "Without danger you cannot get beyond danger." - George Herbert
 
@@ -240,9 +240,9 @@ Kabir
 
 "Never regret. If it's good, it's wonderful. If it's bad, it's experience." - Victoria Holt
 
-"We must lay one brick at a time, take one step at a time; we can be responsible only for the one action of the present moment.  But we can beg for an increase of love in our hearts that will vitalize and transform all our individual actions." - Dorothy Day
+"We must lay one brick at a time, take one step at a time; we can be responsible only for the one action of the present moment. But we can beg for an increase of love in our hearts that will vitalize and transform all our individual actions." - Dorothy Day
 
-"There is a magnet in your heart that will attract true friends.  That magnet is unselfishness, thinking of others first.  When you learn to live for others, they will live for you." - Paramahansa Yogananda
+"There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first. When you learn to live for others, they will live for you." - Paramahansa Yogananda
 
 "Playing it safe is the riskiest choice we can ever make." - Sarah Ban Breathnach
 
@@ -268,15 +268,15 @@ Kabir
 
 "One does not discover new lands without consenting to lose sight of the shore for a very long time." - Andre Gide
 
-"Figure out what your purpose is in life, what you really and truly want to do with your time and your life then be willing to sacrifice everything and then some to achieve it.  If you are not willing to make the sacrifice, then keep searching." - Quintina Ragnacci
+"Figure out what your purpose is in life, what you really and truly want to do with your time and your life then be willing to sacrifice everything and then some to achieve it. If you are not willing to make the sacrifice, then keep searching." - Quintina Ragnacci
 
 "No horse gets anywhere until he is harnessed. No stream or gas drives anything until it is confined. No Niagara is ever turned into light and power until it is tunneled. No life ever grows great until it is focused, dedicated, disciplined." - Harry Emerson Fosdick
 
-"Many of us spend our whole lives running from feeling with the mistaken belief that you cannot bear the pain.  But you have already borne the pain.  What you have not done is feel all you are beyond that pain." - Kahlil Gibran
+"Many of us spend our whole lives running from feeling with the mistaken belief that you cannot bear the pain. But you have already borne the pain. What you have not done is feel all you are beyond that pain." - Kahlil Gibran
 
 "When we get too caught up in the busyness of the world we lose connection with one another and ourselves." - Jack Kornfield
 
-"Sometimes our light goes out but is blown into flame by another human being.  Each of us owes deepest thanks to those who have rekindled this light." - Albert Schweitzer
+"Sometimes our light goes out but is blown into flame by another human being. Each of us owes deepest thanks to those who have rekindled this light." - Albert Schweitzer
 
 "I have accepted fear as a part of life - specifically the fear of change. I have gone ahead despite the pounding in the heart that says: turn back." - Erica Jong
 
@@ -310,7 +310,7 @@ Kabir
 
 "The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it." - Harry Emerson Fosdick
 
-"You will never find time for anything.  You must make it." - Charles Buxton
+"You will never find time for anything. You must make it." - Charles Buxton
 
 "Never apologize for showing feeling. When you do so, you apologize for the truth." - Benjamin Disraeli
 
@@ -334,7 +334,7 @@ Kabir
 
 "I believe a leaf of grass is no less than the journey-work of the stars." - Walt Whitman
 
-"Be brave enough to live life creatively.  The creative is the place where no one else has ever been.  You have to leave the city of your comfort and go into the wilderness of your intuition.  You can't get there by bus, only by hard work and risk and by not quite knowing what you're doing.  What you'll discover will be wonderful.  What you'll discover will be yourself." - Alan Alda
+"Be brave enough to live life creatively. The creative is the place where no one else has ever been. You have to leave the city of your comfort and go into the wilderness of your intuition. You can't get there by bus, only by hard work and risk and by not quite knowing what you're doing. What you'll discover will be wonderful. What you'll discover will be yourself." - Alan Alda
 
 "Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day; begin it well and serenely and with too high a spirit to be cumbered with your old nonsense." - Ralph Waldo Emerson
 
@@ -376,7 +376,7 @@ Kabir
 
 "The world in general doesn't know what to make of originality; it is startled out of its comfortable habits of thought, and its first reaction is one of anger." - W. Somerset Maugham
 
-"The apparently unendurable conflict is proof of the rightness of your life.  A life without contradiction is only half a life; or else a life in the Beyond, which is destined only for angels.  But God loves human beings more than the angels." - Carl Jung
+"The apparently unendurable conflict is proof of the rightness of your life. A life without contradiction is only half a life; or else a life in the Beyond, which is destined only for angels. But God loves human beings more than the angels." - Carl Jung
 
 "Once you hear the details of victory, it is hard to distinguish it from a defeat." - Jean-Paul Sartre
 
@@ -406,7 +406,7 @@ Kabir
 
 "Everything has changed, except our way of thinking." - Albert Einstein
 
-"Nonviolence means avoiding not only external physical violence, but also internal violence of spirit.  You not only refuse to shoot a man, but you refuse to hate him." - Dr. Martin Luther King, Jr.
+"Nonviolence means avoiding not only external physical violence, but also internal violence of spirit. You not only refuse to shoot a man, but you refuse to hate him." - Dr. Martin Luther King, Jr.
 
 "It's never what people do that make us angry, it's what we tell ourselves about what they did." - Marshall Rosenberg
 
@@ -424,7 +424,7 @@ Kabir
 
 "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science." - Albert Einstein
 
-"A human being is a part of a whole, called by us 'universe', a part limited in time and space.  He experiences himself, his thoughts and feelings, as something separate from the rest - a kind of optical delusion of consciousness.  This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us.  Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty." - Albert Einstein
+"A human being is a part of a whole, called by us 'universe', a part limited in time and space. He experiences himself, his thoughts and feelings, as something separate from the rest - a kind of optical delusion of consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty." - Albert Einstein
 
 "Enlightenment must come little by little--otherwise it would overwhelm." - Idries Shah
               
@@ -464,9 +464,9 @@ Kabir
 
 "Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations." - Melvin Conway design systems communication organizations
 
-"I did not fail two thousand times.  I merely found two thousand ways not to make a lightbulb." - Thomas Edison
+"I did not fail two thousand times. I merely found two thousand ways not to make a lightbulb." - Thomas Edison
 
-"I hope for nothing.  I fear nothing.  I am free." - Nikos Kazantzakis
+"I hope for nothing. I fear nothing. I am free." - Nikos Kazantzakis
 
 "The Tao that can be spoken is not the true Tao." - Lao Tzu
 
@@ -474,13 +474,13 @@ Kabir
 
 "The best theory is inspired by practice." - Donald Knuth
 
-"A moment's thought would have shown him.  But a moment is a long time, and thought is a painful process." - J. E. Houseman
+"A moment's thought would have shown him. But a moment is a long time, and thought is a painful process." - J. E. Houseman
 
 "It's a poor sort of memory that only works backwards." - Lewis Carroll
 
 "I've had a lot of trouble in my life--most of which never happened." - Mark Twain
 
-"You never change things by fighting the existing reality.  To change something, build a new model that makes the existing model obsolete." - Buckminster Fuller
+"You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Buckminster Fuller
 
 "Learning of all kinds goes on best, lasts best, and tends to lead itself on more when it grows out of a real focus of interest in the learner." - Carl Rogers
 
@@ -496,11 +496,11 @@ Kabir
 
 "To get the viewpoint of the other person appreciatively and profoundly and reconcile it with his own so far as possible is the supreme achievement of man and his highest vocation." - Henry Nelson Wieman
 
-"I conclude that there are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is make it so complicated that there are no obvious deficiencies.  The first method is far more difficult." - [Tony Hoare](http://scifac.ru.ac.za/cspt/hoare.htm)
+"I conclude that there are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is make it so complicated that there are no obvious deficiencies. The first method is far more difficult." - [Tony Hoare](http://scifac.ru.ac.za/cspt/hoare.htm)
 
 "We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil." - Tony Hoare
 
-"Faith is a cop-out.  If the only way you can accept an assertion is by faith, then you are conceding that it can't be taken on its own merits." - Dan Barker
+"Faith is a cop-out. If the only way you can accept an assertion is by faith, then you are conceding that it can't be taken on its own merits." - Dan Barker
 
 "There's only one wrong way to live and that's unhappily." - Patrick Elliott
 
@@ -520,13 +520,13 @@ Kabir
 
 "Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry
 
-"I have no special talents.  I am only passionately curious." - Albert Einstein
+"I have no special talents. I am only passionately curious." - Albert Einstein
 
 "Curiosity is a willing, a proud, an eager confession of ignorance." - S. Leonard Rubinstein
 
-"The important thing is not to stop questioning. Curiosity has its own reason for existing.  One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality.  It is enough if one tries merely to comprehend a little of this mystery every day.  Never lose a holy curiosity." - Albert Einstein
+"The important thing is not to stop questioning. Curiosity has its own reason for existing. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend a little of this mystery every day. Never lose a holy curiosity." - Albert Einstein
 
-"Talent hits a target no one else can hit.  Genius hits a target no one else can see." - Arthur Schopenhauer
+"Talent hits a target no one else can hit. Genius hits a target no one else can see." - Arthur Schopenhauer
 
 "Only short programs have any hope of being correct." - Arthur Whitney
 
@@ -536,11 +536,11 @@ Kabir
 
 "Man's 'progress' is but a gradual discovery that his questions have no meaning." - Antoine de Saint-Exupéry
 
-"Only mediocrity can be trusted to be always at its best.  Genius must always have lapses proportionate to its triumphs." - Max Beerbohm
+"Only mediocrity can be trusted to be always at its best. Genius must always have lapses proportionate to its triumphs." - Max Beerbohm
 
-"Those who are enamored of practice without theory are like a pilot who goes into a ship without rudder or compass and never has any certainty where he is going.  Practice should always be based on a sound knowledge of theory." - Leonardo da Vinci
+"Those who are enamored of practice without theory are like a pilot who goes into a ship without rudder or compass and never has any certainty where he is going. Practice should always be based on a sound knowledge of theory." - Leonardo da Vinci
 
-"IV.17  When you meet someone better than yourself, turn your thoughts to becoming his equal.  When you meet someone not as good as you are, look within and examine your own self." - Confucius
+"IV.17  When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self." - Confucius
 
 "When I'm working on a problem, I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong." - R. Buckminster Fuller
 
@@ -566,7 +566,7 @@ Kabir
 
 "Common sense is the collection of prejudices acquired by age eighteen." - Albert Einstein
 
-"A variable is to data flow what GOTO is to control flow.  Just as GOTO allows control to go anywhere, a variable allows data to go anywhere." - [Arch D Robinson](http://neoparaiso.com/logo/variables-considered-harmful.html)
+"A variable is to data flow what GOTO is to control flow. Just as GOTO allows control to go anywhere, a variable allows data to go anywhere." - [Arch D Robinson](http://neoparaiso.com/logo/variables-considered-harmful.html)
 
 "Many of the things you can count, don't count. Many of the things you can't count, really count." - Albert Einstein
 
@@ -586,7 +586,7 @@ Kabir
 
 "The best lack all conviction, while the worst are full of passionate intensity." - [William Butler Yeats](http://www.potw.org/archive/potw351.html)
 
-"The mind can assert anything and pretend it has proved it.  My beliefs I test on my body, on my intuitional consciousness, and when I get a response there, then I accept." - D.H. Lawrence
+"The mind can assert anything and pretend it has proved it. My beliefs I test on my body, on my intuitional consciousness, and when I get a response there, then I accept." - D.H. Lawrence
 
 "Yo can't reason someone out of something he didn't reason himself into." - Jonathan Swift (via Alfie Kohn)
 
@@ -600,11 +600,9 @@ Kabir
 (on [P vs NP](http://en.wikipedia.org/wiki/P_%3D_NP_problem))
 
 At this point I am reminded of the keynote speech of the then boss of IBM in France who addressed the audience at the 7th IEEE Logic programming conference in Paris. IBM prolog had added a lot of OO extensions, when asked why he replied: Our customers wanted OO prolog so we made OO prolog.
-I remember thinking "how simple, no qualms of conscience, no soul-searching, no asking 'Is this the right thing to do' " ...  - Joe Armstrong [Why OO Sucks](http://www.sics.se/~joe/bluetail/vol1/v1_oo.html)
+I remember thinking "how simple, no qualms of conscience, no soul-searching, no asking 'Is this the right thing to do' " ... - Joe Armstrong [Why OO Sucks](http://www.sics.se/~joe/bluetail/vol1/v1_oo.html)
 
 "The best way to have a good idea is to have a lot of ideas." - Linus Pauling
-
-"Only short programs have any hope of being correct." - Arthur Whitney
 
 "Beauty is the first test: there is no permanent place in this world for ugly mathematics." - G. H. Hardy, A Mathematician's Apology
 
@@ -835,7 +833,7 @@ The struggle between for and against is the mind's worst disease.
 
 "I am always doing that which I can not do, in order that I may learn how to do it." - Pablo Picasso
 
-"Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it.  Avoiding danger is no safer in the long run than outright exposure.  Life is either a daring adventure, or nothing." - Helen Keller
+"Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing." - Helen Keller
 
 "The world of achievement has always belonged to the optimist." - J. Harold Wilkins
 
@@ -847,7 +845,7 @@ The struggle between for and against is the mind's worst disease.
 
 "My commitment is to truth, not consistency." - Gandhi
 
-"Abundance is not something we acquire.  It is something we tune into." - Wayne Dyer
+"Abundance is not something we acquire. It is something we tune into." - Wayne Dyer
 
 "Beauty is a consequential thing, a product of solving problems correctly." - Joseph Esherick
 
@@ -949,7 +947,7 @@ The struggle between for and against is the mind's worst disease.
 
 "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life." - Eckhart Tolle
 
-"Attention Deficit Disorder was coined by regularity chauvinists.  Regularity chauvinists are people who insist that you have got to do the same thing every time, every day, which drives some of us nuts. Attention Deficit Disorder - we need a more positive term for that. Hummingbird mind, I should think." - Ted Nelson (via Jake Elliott)
+"Attention Deficit Disorder was coined by regularity chauvinists. Regularity chauvinists are people who insist that you have got to do the same thing every time, every day, which drives some of us nuts. Attention Deficit Disorder - we need a more positive term for that. Hummingbird mind, I should think." - Ted Nelson (via Jake Elliott)
 
 "It is impossible for a man to learn what he thinks he already knows." - Epictetus
 
@@ -1045,7 +1043,7 @@ The struggle between for and against is the mind's worst disease.
 
 "A programming language is low level when its programs require attention to the irrelevant." - Alan Perlis
 
-"So often I hear 'The Real World' as a static notion (e.g., 'but in the Real World ...').  I'm for helping the Real World evolve." - Conal Elliott
+"So often I hear 'The Real World' as a static notion (e.g., 'but in the Real World ...'). I'm for helping the Real World evolve." - Conal Elliott
 
 "A problem well stated is a problem half solved." - Charles F. Kettering
 
@@ -1187,7 +1185,7 @@ The struggle between for and against is the mind's worst disease.
 
 "The purpose of visualization is insight, not pictures." - Ben Shneiderman
 
-"I wake up every day both wanting to change the world and to have one heck of a good time.  Sometimes this makes planning the day difficult." - E.B. White
+"I wake up every day both wanting to change the world and to have one heck of a good time. Sometimes this makes planning the day difficult." - E.B. White
 
 "If something is not beautiful, it is probably not true." - John Keats
 
@@ -1229,7 +1227,7 @@ The struggle between for and against is the mind's worst disease.
 
 "The beginning of love is to let those we love be perfectly themselves, and not to twist them to fit our own image. Otherwise we love only the reflection of ourselves we find in them." - Thomas Merton
 
-"It is not that you must be free from fear.  The moment you try to free yourself from fear, you create resistance against fear.  Resistance in any form does not end fear.  What is needed, rather than running away or controlling or suppressing or any other resistance, is understanding fear; that means watch it, learn about it, come directly into contact with it.  We are to learn about fear, not how to escape from it, not how to resist it." - Krishnamurti
+"It is not that you must be free from fear. The moment you try to free yourself from fear, you create resistance against fear. Resistance in any form does not end fear. What is needed, rather than running away or controlling or suppressing or any other resistance, is understanding fear; that means watch it, learn about it, come directly into contact with it. We are to learn about fear, not how to escape from it, not how to resist it." - Krishnamurti
 
 "A thought is harmless unless we believe it." - Byron Katie
 
@@ -1382,3 +1380,24 @@ The struggle between for and against is the mind's worst disease.
 "As long as you make an identity for yourself out of pain, you cannot be free of it." - Eckhart Tolle
 
 "The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum -- even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate." - Noam Chomsky
+
+"There is no ethics in general. There are only--eventually--ethics of processes by which we treat the possibilities of a situation." - Alain Badiou, 'Ethics', 1993.
+
+"As you inquire into issues and turn judgments around, you come to see that every perceived problem appearing 'out there' is really nothing more than a misperception within your own thinking." - Byron Katie
+
+"To 'see both sides' of a problem is the surest way to prevent its complete solution. Because there are always more than two sides." - Idries Shah
+
+"If you want to enter a state of grace, question the assumption you’re defending right now." - Byron Katie
+
+"In that it dulls curiosity, the obvious is the enemy of the true." - Conal Elliott
+
+"My own approach to literary problems is very like the one Dr. Johnson's blind housekeeper used when she poured tea--she put her finger inside the cup." - Flannery O'Connor
+
+"Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." - Oscar Wilde
+
+"Whenever you think that your needs are not being met, you’re telling the story of a future." - Byron Katie
+
+"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be." – Wayne W. Dyer
+
+"The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it." - Michelangelo
+
