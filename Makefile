@@ -3,7 +3,7 @@ default: quotes.html
 see: quotes.see
 
 POPTS+=--standalone
-POPTS+=--smart
+POPTS+=--smart --old-dashes
 #POPTS+=--css=style.css
 #POPTS+=--latexmathml
 
