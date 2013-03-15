@@ -550,6 +550,8 @@ Kabir
 
 "Religion is a defense against the experience of God." - Carl Gustav Jung
 
+"The attitude of faith is to let go, and become open to truth, whatever it might turn out to be." - Alan Watts
+
 "The discovery of this reality is hindered rather than helped by belief, whether one believes in God or believes in atheism. We must make here a clear distinction between belief and faith, because, in general practice, belief has come to mean a state of mind which is almost the opposite of faith. Belief, as I use the word here, is the insistence that the truth is what one would 'lief' or wish it to be. The believer will open his mind to the truth on the condition that it fits in with his preconceived ideas and wishes. Faith, on the other hand, is an unreserved opening of the mind to the truth, whatever it may turn out to be. Faith has no preconceptions; it is a plunge into the unknown. Belief clings, but faith lets go. In this sense of the word, faith is the essential virtue of science, and likewise of any religion that is not self-deception." - Alan Watts
 
 "The object of mathematical rigor is to sanction and legitimize the conquests of intuition, and there was never any other object for it." - Jacques Hadamard
@@ -1401,3 +1403,34 @@ The struggle between for and against is the mind's worst disease.
 
 "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it." - Michelangelo
 
+"The world is full of magic things, patiently waiting for our senses to grow sharper." - W.B. Yeats
+
+"People try nonviolence for a week, and when it 'doesn't work,' they go back to violence, which hasn't worked for centuries." - Theodore Roszak
+
+"Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit" - E.E. Cummings
+
+"In many shamanic societies, if you came to a shaman or medicine person complaining of being disheartened, dispirited, or depressed, they would ask one of four questions. When did you stop dancing? When did you stop singing? When did you stop being enchanted by stories? When did you stop finding comfort in the sweet territory of silence? Where we have stopped dancing, singing, being enchanted by stories, or finding comfort in silence is where we have experience the loss of soul. Dancing, singing, storytelling, and silence are the four universal healing salves." - Gabrielle Roth
+
+"Language shapes the way we think, and determines what we can think about." - Benjamin Lee Whorf (*Language, Thought, and Reality*, 1964)
+
+"The limits of my language mean the limits of my world." - Ludwig Wittgenstein
+
+"A language that doesn't affect the way you think about programming, is not worth knowing." - Alan Perlis
+
+"As far as inner transformation is concerned, there is nothing you can do about it. You cannot transform yourself, and you certainly cannot transform your partner or anybody else. All you can do is create a space for transformation to happen, for grace and love to enter." - Eckhart Tolle
+
+"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest. To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh. To live is to be willing to die over and over again." - Pema Chödrön
+
+"First something is a great idea, then it becomes a cause, then it becomes a business and finally it becomes a racket." - Eric Hoffer
+
+"The constant assertion of belief is an indication of fear." - Jiddu Krishnamurti
+
+"If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present." - Lao Tzu
+
+"William James used to preach the 'will-to-believe.' For my part, I should wish to preach the 'will-to-doubt.' None of our beliefs are quite true; all at least have a penumbra of vagueness and error. What is wanted is not the will to believe, but the will to find out, which is the exact opposite." - Bertrand Russell in "Sceptical Essays" (1928)
+
+"There is a transcendental dimension beyond language... It's just hard as hell to talk about it." - Terence McKenna
+
+"Until you look forward to all criticism, your Work's not done." - Byron Katie ([on Tumbler](http://byronkatie.tumblr.com/post/22883363194/until-you-look-forward-to-all-criticism-your))
+
+"I would rather have a mind opened by wonder than one closed by belief." - Gerry Spence
