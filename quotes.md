@@ -512,7 +512,7 @@ Kabir
 
 "To be positive: To be mistaken at the top of one's voice." - Ambrose Bierce
 
-"The most erroneous stories are those we think we know best - and therefore never scrutinize or question." - Stephen Jay Gould
+"The most erroneous stories are those we think we know best -- and therefore never scrutinize or question." - Stephen Jay Gould
 
 "Anxiety is the dizziness of freedom." - Søren Kierkegaard
 
@@ -1429,8 +1429,37 @@ The struggle between for and against is the mind's worst disease.
 
 "William James used to preach the 'will-to-believe.' For my part, I should wish to preach the 'will-to-doubt.' None of our beliefs are quite true; all at least have a penumbra of vagueness and error. What is wanted is not the will to believe, but the will to find out, which is the exact opposite." - Bertrand Russell in "Sceptical Essays" (1928)
 
-"There is a transcendental dimension beyond language... It's just hard as hell to talk about it." - Terence McKenna
+"There is a transcendental dimension beyond language.... It's just hard as hell to talk about it." - Terence McKenna
 
 "Until you look forward to all criticism, your Work's not done." - Byron Katie ([on Tumbler](http://byronkatie.tumblr.com/post/22883363194/until-you-look-forward-to-all-criticism-your))
 
 "I would rather have a mind opened by wonder than one closed by belief." - Gerry Spence
+
+"The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself." - Friedrich Nietzsche
+
+"In the end only three things matter: how fully you have lived, how deeply you have loved and how well you have learned to let go." - Buddhist saying
+
+"The plague of mankind is the fear and rejection of diversity: monotheism, monarchy, monogamy and, in our age, mono-medicine. The belief that there is only one right way to live, only one right way to regulate religious, political, sexual, medical affairs is the root cause of the greatest threat to man: members of his own species, bent on ensuring his salvation, security, and sanity." - Thomas Szasz
+
+"The further a society drifts from the truth, the more it will hate those that speak it." - George Orwell
+
+"'Rights' are granted; 'duties' are enforced. To speak of rights and duties is to think in terms of authority." - Laurence Labadie
+
+"Never say, and never take seriously anyone who says, 'I cannot believe that so-and-so could have evolved by gradual selection'. I have dubbed this kind of fallacy 'the Argument from Personal Incredulity'. Time and again, it has proven the prelude to an intellectual banana-skin experience." - Richard Dawkins
+
+Problems worthy of attack  
+prove their worth by hitting back.  
+-- Piet Hein
+
+"Any story that you tell about yourself is food for the ego. There is no authentic story." - Byron Katie
+
+"The opinion other people have of you is their problem, not yours." - Elisabeth Kubler-Ross
+
+"If we are unduly absorbed in improving our lives we may forget altogether to live them." - Alan Watts
+
+"Successful problem solving requires finding the right solution to the right problem. We fail more often because we solve the wrong problem than because we get the wrong solution to the right problem" - Russell Ackoff
+
+"Religion is like a blind man looking in a black room for a black cat that isn't there, and finding it." - Oscar Wilde
+
+"It's very dangerous to mix up the words *natural* and *habitual*. We have been trained to be quite habitual at communicating in ways that are quite unnatural." - Mohandas K. Gandhi
+
