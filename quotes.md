@@ -172,7 +172,7 @@ Kabir
 
 "A great writer has spoken sadly of the shock it would be to a mother to know her boy as he really is, but I think she often knows him better than he is known to cynical friends. We should be slower to think that the man at his worst is the real man, and certain that the better we are ourselves the less likely is he to be at his worst in our company. Every time he talks away his own character before us he is signifying contempt for ours." - James Barrie
 
-"So Babbie loved the little minister for the best that she had ever seen in man. I shall be told that she thought far more of him than he deserved, forgetting the mean in the worthy: but who that has had a glimpse of heaven will care to let his mind dwell henceforth on earth?  Love, it is said, is blind, but love is not blind. It is an extra eye, which shows us what is most worthy of regard. To see the best is to see most clearly, and it is the lover's privilege." - James Barrie
+"So Babbie loved the little minister for the best that she had ever seen in man. I shall be told that she thought far more of him than he deserved, forgetting the mean in the worthy: but who that has had a glimpse of heaven will care to let his mind dwell henceforth on earth? Love, it is said, is blind, but love is not blind. It is an extra eye, which shows us what is most worthy of regard. To see the best is to see most clearly, and it is the lover's privilege." - James Barrie
 
 "When we see men of a contrary character, we should turn inwards and examine ourselves." - Confucius
 
@@ -1389,7 +1389,7 @@ The struggle between for and against is the mind's worst disease.
 
 "To 'see both sides' of a problem is the surest way to prevent its complete solution. Because there are always more than two sides." - Idries Shah
 
-"If you want to enter a state of grace, question the assumption you’re defending right now." - Byron Katie
+"If you want to enter a state of grace, question the assumption you're defending right now." - Byron Katie
 
 "In that it dulls curiosity, the obvious is the enemy of the true." - Conal Elliott
 
@@ -1397,9 +1397,9 @@ The struggle between for and against is the mind's worst disease.
 
 "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." - Oscar Wilde
 
-"Whenever you think that your needs are not being met, you’re telling the story of a future." - Byron Katie
+"Whenever you think that your needs are not being met, you're telling the story of a future." - Byron Katie
 
-"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be." – Wayne W. Dyer
+"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be." - Wayne W. Dyer
 
 "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it." - Michelangelo
 
@@ -1463,3 +1463,8 @@ prove their worth by hitting back.
 
 "It's very dangerous to mix up the words *natural* and *habitual*. We have been trained to be quite habitual at communicating in ways that are quite unnatural." - Mohandas K. Gandhi
 
+"Types don't just contain data; types explain data." - Conor McBride ([source](http://haskell.1045720.n5.nabble.com/snoc-vs-cons-td3096899.html))
+
+"The word choice is a fraud while people choose only what they have been taught to choose." Idries Shah
+
+"Exhale only love." - Rumi
