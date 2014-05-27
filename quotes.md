@@ -1468,3 +1468,7 @@ prove their worth by hitting back.
 "The word choice is a fraud while people choose only what they have been taught to choose." Idries Shah
 
 "Exhale only love." - Rumi
+
+"Hand-waving is an important factor in staying stuck in impossibility thinking, since rigorous argument uncovers unconscious limiting assumptions. I'm just as happy if you are working on showing impossibility as discovering the possible, as long as you are rigorous and get rigorous peer review. Otherwise, we all fall into the trap of self-deceit." - Conal Elliott ([Source](http://conal.net/blog/posts/can-functional-programming-be-liberated-from-the-von-neumann-paradigm))
+
+"It is not only not right, it is not even wrong." - Wolfgang Pauli
