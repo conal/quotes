@@ -1,4 +1,4 @@
-% Some of my favorite quotes
+# Some of my favorite quotes
 
 "We ascribe beauty to that which is simple; which has no superfluous parts; which exactly answers its end; which stands related to all things; which is the mean of many extremes." - Ralph Waldo Emerson
 
@@ -687,7 +687,7 @@ Rumi, Mathnawi II: 2327-2332, version by Camille and Kabir Helminski, [posted to
 
 "Learning is remembering what you're interested in." - Richard Saul Wurman
 
-"I call intuition cosmic fishing. You feel a nibble, then you've got to hook the fish." -- Buckminster Fullero
+"I call intuition cosmic fishing. You feel a nibble, then you've got to hook the fish." -- Buckminster Fuller
 
 "We don't see things as they are, we see them as we are." - Anais Nin
 
@@ -1465,10 +1465,52 @@ prove their worth by hitting back.
 
 "Types don't just contain data; types explain data." - Conor McBride ([source](http://haskell.1045720.n5.nabble.com/snoc-vs-cons-td3096899.html))
 
-"The word choice is a fraud while people choose only what they have been taught to choose." Idries Shah
+"The word 'choice' is a fraud while people choose only what they have been taught to choose." Idries Shah
 
 "Exhale only love." - Rumi
 
 "Hand-waving is an important factor in staying stuck in impossibility thinking, since rigorous argument uncovers unconscious limiting assumptions. I'm just as happy if you are working on showing impossibility as discovering the possible, as long as you are rigorous and get rigorous peer review. Otherwise, we all fall into the trap of self-deceit." - Conal Elliott ([Source](http://conal.net/blog/posts/can-functional-programming-be-liberated-from-the-von-neumann-paradigm))
 
 "It is not only not right, it is not even wrong." - Wolfgang Pauli
+
+"Peace of mind is not the absence of conflict from life, but the ability to cope with it." - Unknown
+
+"A ship in harbor is safe -- but that is not what ships are for." - John A. Shedd
+
+"We seldom realize, for example that our most private thoughts and emotions are not actually our own. For we think in terms of languages and images which we did not invent, but which were given to us by our society." - Alan Wilson Watts 
+
+"When a well-packaged web of lies has been sold gradually to the masses over generations, the truth will seem utterly preposterous and its speaker a raving lunatic." - Dresden James 
+
+"You have to know how to accept rejection and reject acceptance." - Ray Bradbury
+
+"Muddy water is best cleared by leaving it alone." - Alan Watts
+
+"Ego is a social institution with no physical reality. The ego is simply your symbol of yourself." - Alan Watts
+
+"The truth does not change according to our ability to stomach it." - Flannery O'Connor
+
+"The obstacle is the path." - Zen Proverb
+
+"Only those who will risk going too far can possibly find out how far one can go." - T. S. Eliot
+
+"Silence is the best reply to a fool." - Imam Ali
+
+"One day I will find the right words, and they will be simple." - Jack Kerouac
+
+"Birds born in a cage think flying is an illness." - Alejandro Jodorowsky
+
+"The ability to observe without evaluating is the highest form of intelligence." - Jiddu Krishnamurti
+
+"Life is like Sanskrit read to a pony." - Lou Reed
+
+"How long will this last, this delicious feeling of being alive, of having penetrated the veil which hides beauty and the wonders of celestial vistas? It doesn't matter, as there can be nothing but gratitude for even a glimpse of what exists for those who can become open to it." - Alexander Shulgin
+
+"He who wants to get to the source must swim against the current." - Stanislaw Lec
+
+"The amount of energy necessary to refute bullshit is an order of magnitude bigger than to produce it." - Alberto Brandolini
+
+"It requires a very unusual mind to undertake the analysis of the obvious." - Alfred North Whitehead
+
+"When I am with you, everything is a prayer." - Rumi
+
+"Only a Perfect One who is always laughing at the word *two* can make you know of Love." - Hafiz
