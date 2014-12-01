@@ -1465,7 +1465,7 @@ prove their worth by hitting back.
 
 "Types don't just contain data; types explain data." - Conor McBride ([source](http://haskell.1045720.n5.nabble.com/snoc-vs-cons-td3096899.html))
 
-"The word 'choice' is a fraud while people choose only what they have been taught to choose." Idries Shah
+"The word 'choice' is a fraud while people choose only what they have been taught to choose." - Idries Shah
 
 "Exhale only love." - Rumi
 
@@ -1475,7 +1475,7 @@ prove their worth by hitting back.
 
 "Peace of mind is not the absence of conflict from life, but the ability to cope with it." - Unknown
 
-"A ship in harbor is safe -- but that is not what ships are for." - John A. Shedd
+"A ship in harbor is safe --- but that is not what ships are for." - John A. Shedd
 
 "We seldom realize, for example that our most private thoughts and emotions are not actually our own. For we think in terms of languages and images which we did not invent, but which were given to us by our society." - Alan Wilson Watts 
 
@@ -1514,3 +1514,13 @@ prove their worth by hitting back.
 "When I am with you, everything is a prayer." - Rumi
 
 "Only a Perfect One who is always laughing at the word *two* can make you know of Love." - Hafiz
+
+"Between stimulus and response there is a space. In that space lies our freedom." - Viktor Frankl
+
+"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be." - Wayne Dyer
+
+"Reality is much more complex than any judgment of right and wrong encourages you to believe. When you really understand the ethical, spiritual, social, economic, and psychological forces that shape individuals, you will see that people's choices are not based on a desire to hurt. Instead, they are in accord with what they know and what world views are available to them. Most are doing the best they can, given what information they've received and what problems they are facing." - Michael Lerner
+
+"It's not good to settle into a set of opinions; it's a mistake to put in effort and obtain some understanding and stop at that." - Hagakure
+
+"The question you raise 'how can such a formulation lead to computations' doesn't bother me in the least! Throughout my whole life as a mathematician, the possibility of making explicit, elegant computations has always come out by itself, as a byproduct of a thorough conceptual understanding of what was going on. Thus I never bothered about whether what would come out would be suitable for this or that, but just tried to understand --- and it always turned out that understanding was all that mattered." - Alexander Grothendieck (in a letter to Ronnie Brown, December 4, 1983)
