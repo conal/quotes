@@ -1524,3 +1524,5 @@ prove their worth by hitting back.
 "It's not good to settle into a set of opinions; it's a mistake to put in effort and obtain some understanding and stop at that." - Hagakure
 
 "The question you raise 'how can such a formulation lead to computations' doesn't bother me in the least! Throughout my whole life as a mathematician, the possibility of making explicit, elegant computations has always come out by itself, as a byproduct of a thorough conceptual understanding of what was going on. Thus I never bothered about whether what would come out would be suitable for this or that, but just tried to understand --- and it always turned out that understanding was all that mattered." - Alexander Grothendieck (in a letter to Ronnie Brown, December 4, 1983)
+
+"If a problem is fixable, if a situation is such that you can do something about it, then there is no need to worry. If it's not fixable, then there is no help in worrying. There is no benefit in worrying whatsoever." - Dalai Lama XIV (1935- )
