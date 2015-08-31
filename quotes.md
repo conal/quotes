@@ -288,7 +288,7 @@ Kabir
 
 "They are ill discoverers that think there is no land, when they can see nothing but sea." - Francis Bacon
 
-"Any intelligent fool can make things bigger, more complex and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction" - Albert Einstein
+"Any intelligent fool can make things bigger, more complex and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction" - E. F. Schumacher
 
 "Let yourself be open and life will be easier. A spoon of salt in a glass of water makes the water undrinkable. A spoon of salt in a lake is almost unnoticed." - Buddha
 
@@ -636,7 +636,7 @@ I remember thinking "how simple, no qualms of conscience, no soul-searching, no 
 
 "The moment you realize you are not present, you are present." - Eckhart Tolle
 
-"Accept -- then act. Whatever the present moment contains accept it as if you had chosen it. Always work with it, not against it." - Eckhart Tolle
+"Accept -- then act. Whatever the present moment contains, accept it as if you had chosen it. Always work with it, not against it." - Eckhart Tolle
 
 "Don't seek happiness. If you seek it, you won't find it, because seeking is the antithesis of happiness." - Eckhart Tolle
 
@@ -887,7 +887,7 @@ The struggle between for and against is the mind's worst disease.
 
 "All things are difficult before they are easy." - Thomas Fuller
 
-"The single biggest problem with communication is the illusion that it has occurred" - George Bernard Shaw
+"The single biggest problem with communication is the illusion that it has occurred." - George Bernard Shaw
 
 "A 'No' uttered from the deepest conviction is better than a 'Yes' uttered to please, or worse, to avoid trouble." - Gandhi
 
@@ -1526,3 +1526,26 @@ prove their worth by hitting back.
 "The question you raise 'how can such a formulation lead to computations' doesn't bother me in the least! Throughout my whole life as a mathematician, the possibility of making explicit, elegant computations has always come out by itself, as a byproduct of a thorough conceptual understanding of what was going on. Thus I never bothered about whether what would come out would be suitable for this or that, but just tried to understand --- and it always turned out that understanding was all that mattered." - Alexander Grothendieck (in a letter to Ronnie Brown, December 4, 1983)
 
 "If a problem is fixable, if a situation is such that you can do something about it, then there is no need to worry. If it's not fixable, then there is no help in worrying. There is no benefit in worrying whatsoever." - Dalai Lama XIV (1935- )
+
+"Beware of false knowledge; it is more dangerous than ignorance" - George Bernard Shaw
+
+"Can you remain unmoving / till the right action arises by itself?" - Lao Tzu
+
+"The greatest meditation is a mind that lets go. The greatest wisdom is seeing through appearances." - Atisha
+
+"Our suffering is caused by holding on to how things might have been, should have been, could have been." - Stephen Levine
+
+"Waking up to who you are requires letting go of who you imagine yourself to be." -  Alan Watts
+
+"Insanity in individuals is something rare --- but in groups, parties, nations and epochs, it is the rule." - Friedrich Nietzsche 
+
+"I mean by intellectual integrity the habit of deciding vexed questions in accordance with the evidence, or of leaving them undecided where the evidence is inconclusive. This virtue, though it is underestimated by almost all adherents of any system of dogma, is to my mind of the very greatest social importance and far more likely to benefit the world than Christianity or any other system of organized beliefs." - Bertrand Russell, Can Religion Cure Our Troubles (1954)
+
+"When your eyes are functioning well you don't see your eyes. If your eyes are imperfect you see spots in front of them. That means there are some lesions in the retina or wherever, and because your eyes aren't working properly, you feel them. In the same way, you don't hear your ears. If you have a ringing in your ears it means there's something wrong with your ears. Therefore, if you do feel yourself, there must be something wrong with you. Whatever you have, the sensation of I is like spots in front of your eyes - it means something's wrong with your functioning." - Alan Watts (Ego - from the Essential Alan Watts)
+
+"The formulation of a problem is often more essential than its solution, which may be merely a matter of mathematical or experimental skill. To raise new questions, new possibilities, to regard old problems from a new angle requires creative imagination and marks real advances in science." - Albert Einstein
+
+"Culture is a plot against the expansion of consciousness." - Terence McKenna
+
+"If you can't get out of it, get into it." - anon
+
