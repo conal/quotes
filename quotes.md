@@ -1549,3 +1549,13 @@ prove their worth by hitting back.
 
 "If you can't get out of it, get into it." - anon
 
+"You are an aperture through which the universe is looking at and exploring itself." - Alan Watts
+
+"Don't try to change people's minds. People will change their own minds. Instead, design an experience that leads to a new way of thinking." - [Dave Gray](https://twitter.com/davegray/status/664910465470853120)
+
+"Worry is preposterous; we don't know enough to worry." - Wei Boyang
+
+"If you understand, things are just as they are; if you do not understand, things are just as they are." - Zen Proverb
+
+"Nature does not hurry, yet everything is accomplished." - Lao Tzu
+
