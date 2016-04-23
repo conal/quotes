@@ -560,9 +560,9 @@ Kabir
 
 "Art is a lie that makes us realize truth." - Picasso
 
-"The foolish man seeks happiness in the distance, the wise grows it under his feet." - James Oppenheim
+"The foolish man seeks happiness in the distance; the wise grows it under his feet." - James Oppenheim
 
-"As tedious as arguing about definitions is, it can't hold a candle to arguing without definitions." - David R MacIver
+"As tedious as arguing about definitions is, it can't hold a candle to arguing without definitions." - [David R MacIver](http://www.drmaciver.com/tag/bad-arguments/)
 
 "On two occasions I have been asked, -- 'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' In one case a member of the Upper, and in the other a member of the Lower, House put this question. I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question." - Charles Babbage
 
@@ -1559,3 +1559,12 @@ prove their worth by hitting back.
 
 "Nature does not hurry, yet everything is accomplished." - Lao Tzu
 
+"Opinion is really the lowest form of human knowledge. It requires no accountability, no understanding. The highest form of knowledge... is empathy, for it requires us to suspend our egos and live in another's world. It requires profound purpose larger than the self kind of understanding." - Bill Bullard
+
+"I regard belief as a form of brain damage, the death of intelligence, the fracture of creativity, the atrophy of imagination." - Robert Anton Wilson
+
+"Give us this day our daily Faith, but deliver us, dear God, from Belief." - Aldous Huxley
+
+"Though born a mortal like all others, Master had achieved identity with the Ruler of time and space. In his life I perceived a godlike unity. He had not found any insuperable obstacle to mergence of human with Divine. No such barrier exists, I came to understand, save in man's spiritual unadventurousness." - Paramhansa Yogananda (Autobiography of a Yogi)
+
+"disperse your money and attention with extreme miserliness when people start telling you they have the answers. There are no answers at this point. Part of growing up is to live without answers." - Terence McKenna
