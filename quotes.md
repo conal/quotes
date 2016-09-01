@@ -10,7 +10,7 @@
 
 "Make things as simple as possible, but not simpler." - Albert Einstein
 
-"Go often to the house of thy friend, for weeds choke the unused path." - Albert Ralph Waldo Emerson
+"Go often to the house of thy friend, for weeds choke the unused path." - Ralph Waldo Emerson
 
 "Hating people is like burning down your own house to get rid of a rat." - Henry Emerson Fosdick
 
