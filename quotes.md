@@ -68,7 +68,7 @@ Kabir
 
 "The mass of men lead lives of quiet desperation and go to the grave with the song still in them." - Henry David Thoreau
 
-"Noise proves nothing--often a hen who has merely laid an egg cackles as if she had laid an asteroid." - Mark Twain
+"Noise proves nothing---often a hen who has merely laid an egg cackles as if she had laid an asteroid." - Mark Twain
 
 "It is easier to fight for one's principles than to live up to them." - Alfred Adler
 
@@ -1568,3 +1568,37 @@ prove their worth by hitting back.
 "Though born a mortal like all others, Master had achieved identity with the Ruler of time and space. In his life I perceived a godlike unity. He had not found any insuperable obstacle to mergence of human with Divine. No such barrier exists, I came to understand, save in man's spiritual unadventurousness." - Paramhansa Yogananda (Autobiography of a Yogi)
 
 "disperse your money and attention with extreme miserliness when people start telling you they have the answers. There are no answers at this point. Part of growing up is to live without answers." - Terence McKenna
+
+"we make our world significant by the courage of our questions and the depth of our answers." - Carl Sagan
+
+"We are living in a culture entirely hypnotized by the illusion of time, in which the so-called present moment is felt as nothing but an infintesimal hairline between an all-powerfully causative past and an absorbingly important future. We have no present. Our consciousness is almost completely preoccupied with memory and expectation. We do not realize that there never was, is, nor will be any other experience than present experience. We are therefore out of touch with reality. We confuse the world as talked about, described, and measured with the world which actually is. We are sick with a fascination for the useful tools of names and numbers, of symbols, signs, conceptions and ideas." - Alan Watts
+
+"It is foolish to answer a question that you do not understand." - George Polya
+
+"Man is not a rational animal; he is a rationalizing animal." - Robert Heinlein
+
+"Programmers often think they want mechanisms that come from operational thinking. Part of the art of API design is saying "no" at the right times, when it's more helpful for the programmers to change their thinking." - Conal Elliott
+
+"The mystic has seen that the meaning of being alive is just to be alive. That is to say, when I look at the color of your hair and the shape of your eyebrow, I understand that their shape and color are their point. And this what we are all here for, as well: to be. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves. The funny thing is, they are not even quite sure what they need to achieve, but they are devilishly intent on achieving it."
+- Alan Watts, Eastern Wisdom, Modern Life: Collected Talks: 1960-1969
+
+"Do not ask your children  
+to strive for extraordinary lives.  
+Such striving may seem admirable,  
+but it is the way of foolishness.  
+Help them instead to find the wonder  
+and the marvel of an ordinary life.  
+Show them the joy of tasting  
+tomatoes, apples and pears.  
+Show them how to cry  
+when pets and people die.  
+Show them the infinite pleasure  
+in the touch of a hand.  
+And make the ordinary come alive for them.  
+The extraordinary will take care of itself."
+
+― William Martin, The Parent's Tao Te Ching: Ancient Advice for Modern Parents
+
+"Those who are awake live in a state of constant amazement." - Siddhārtha Gautama
+
+"I don't know who discovered water, but I'm pretty sure it wasn't a fish." - Marshall McLuhan and others)
