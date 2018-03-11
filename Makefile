@@ -12,7 +12,7 @@ POPTS+=--smart --old-dashes
 %.tex: %.md Makefile
 	pandoc $(POPTS) -o $@ $<
 
-%.html: %.md Makefile
+%.html: %.md header.html Makefile
 	pandoc $(POPTS) --include-in-header=header.html -o $@ $<
 
 %.pdf: %.tex Makefile
