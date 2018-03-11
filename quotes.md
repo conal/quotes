@@ -720,7 +720,7 @@ Are you willing to
 
 "It is far better to grasp the universe as it really is than to persist in delusion, however satisfying and reassuring." - Carl Sagan
 
-"Doubt everything. Find your own light." - Buddha
+"Doubt everything. Find your own light." - Buddha? ([disputed](https://fakebuddhaquotes.com/doubt-everything-find-your-own-light/))
 
 <pre class=poem>
 We too
@@ -734,7 +734,7 @@ Lawrence Binyon
 
 "It is no measure of health to be well adjusted to a profoundly sick society." - Krishnamurti
 
-"Here it is -- right now. Start thinking about it and you miss it." - Huang Po
+"Here it is --- right now. Start thinking about it and you miss it." - Huang Po
 
 "Dare to be naive." - R. Buckminster Fuller
 
@@ -1602,3 +1602,11 @@ The extraordinary will take care of itself."
 "Those who are awake live in a state of constant amazement." - Siddhārtha Gautama
 
 "I don't know who discovered water, but I'm pretty sure it wasn't a fish." - Marshall McLuhan and others)
+
+"The greatest weapon against stress is our ability to choose one thought over another." - William James
+
+"For things to reveal themselves to us, we need to be ready to abandon our views about them." - Thich Nhat Hanh
+
+"The first principle is that you must not fool yourself, and you are the easiest person to fool." - Richard P. Feynman
+
+"Programming languages teach you not to want what they don't provide." - Paul Graham
