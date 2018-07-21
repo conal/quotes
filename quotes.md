@@ -1597,7 +1597,7 @@ in the touch of a hand.
 And make the ordinary come alive for them.  
 The extraordinary will take care of itself."
 
-― William Martin, The Parent's Tao Te Ching: Ancient Advice for Modern Parents
+-- William Martin, The Parent's Tao Te Ching: Ancient Advice for Modern Parents
 
 "Those who are awake live in a state of constant amazement." - Siddhārtha Gautama
 
@@ -1610,3 +1610,7 @@ The extraordinary will take care of itself."
 "The first principle is that you must not fool yourself, and you are the easiest person to fool." - Richard P. Feynman
 
 "Programming languages teach you not to want what they don't provide." - Paul Graham
+
+"The Reader may here observe the Force of Numbers, which can be successfully applied, even to those things, which one would imagine are subject to no Rules. There are very few things which we know, which are not capable of being reduc'd to a Mathematical Reasoning; and when they cannot it's a sign our knowledge of them is very small and confus'd; and when a Mathematical Reasoning can be had it's as great a folly to make use of any other, as to grope for a thing in the dark, when you have a Candle standing by you." - John Arbuthnot (Of the Laws of Chance; 1692)
+
+"Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life. An individual human existence should be like a river — small at first, narrowly contained within its banks, and rushing passionately past rocks and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being." - Bertrand Russell (seen on [Brain Pickings](https://www.brainpickings.org/2018/07/03/how-to-grow-old-bertrand-russell/))
