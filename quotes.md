@@ -444,7 +444,7 @@ Kabir
 
 "My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind." - Albert Einstein
 
-"Being stuck is a position few of us like. We want something new but cannot let go of the old -- old ideas, beliefs, habits, even thoughts. We are out of contact with our own genius. Sometimes we know we are stuck; sometimes we don't. In both cases we have to *do* something." - Inga Teekens
+"Being stuck is a position few of us like. We want something new but cannot let go of the old---old ideas, beliefs, habits, even thoughts. We are out of contact with our own genius. Sometimes we know we are stuck; sometimes we don't. In both cases we have to *do* something." - Inga Teekens
 
 "If you are inside of something, say an atom, you only see electrons whirling chaotically around you. If you moved outside the atom you would see those electrons moving with a pattern around the atom. If you rise further above you see that atoms are actually the building blocks of larger structures called molecules. And so it goes, on up the scale, ad infinitum. The ever familiar 'forest from the trees' syndrome. It's all a matter of perspective. True creativity is allowing yourself to gain the loftiest perspective you can in relation to the object of your quandary or inquiry." - J.L. Read
 
@@ -512,7 +512,7 @@ Kabir
 
 "To be positive: To be mistaken at the top of one's voice." - Ambrose Bierce
 
-"The most erroneous stories are those we think we know best -- and therefore never scrutinize or question." - Stephen Jay Gould
+"The most erroneous stories are those we think we know best---and therefore never scrutinize or question." - Stephen Jay Gould
 
 "Anxiety is the dizziness of freedom." - Søren Kierkegaard
 
@@ -564,7 +564,7 @@ Kabir
 
 "As tedious as arguing about definitions is, it can't hold a candle to arguing without definitions." - [David R MacIver](http://www.drmaciver.com/tag/bad-arguments/)
 
-"On two occasions I have been asked, -- 'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' In one case a member of the Upper, and in the other a member of the Lower, House put this question. I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question." - Charles Babbage
+"On two occasions I have been asked,---'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' In one case a member of the Upper, and in the other a member of the Lower, House put this question. I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question." - Charles Babbage
 
 "Common sense is the collection of prejudices acquired by age eighteen." - Albert Einstein
 
@@ -636,7 +636,7 @@ I remember thinking "how simple, no qualms of conscience, no soul-searching, no 
 
 "The moment you realize you are not present, you are present." - Eckhart Tolle
 
-"Accept -- then act. Whatever the present moment contains, accept it as if you had chosen it. Always work with it, not against it." - Eckhart Tolle
+"Accept---then act. Whatever the present moment contains, accept it as if you had chosen it. Always work with it, not against it." - Eckhart Tolle
 
 "Don't seek happiness. If you seek it, you won't find it, because seeking is the antithesis of happiness." - Eckhart Tolle
 
@@ -687,7 +687,7 @@ Rumi, Mathnawi II: 2327-2332, version by Camille and Kabir Helminski, [posted to
 
 "Learning is remembering what you're interested in." - Richard Saul Wurman
 
-"I call intuition cosmic fishing. You feel a nibble, then you've got to hook the fish." -- Buckminster Fuller
+"I call intuition cosmic fishing. You feel a nibble, then you've got to hook the fish." - Buckminster Fuller
 
 "We don't see things as they are, we see them as we are." - Anais Nin
 
@@ -1209,7 +1209,7 @@ The struggle between for and against is the mind's worst disease.
 
 "FP offers a unique opportunity to exploit a compositional approach to algorithms and show the effectiveness of math in programming" - R. Bird
 
-"Thesis, antithesis, synthesis -- most of us only take the first or second steps." - Edward Craig (@NewMindMirror)
+"Thesis, antithesis, synthesis---most of us only take the first or second steps." - Edward Craig (@NewMindMirror)
 
 "And those who were seen dancing were thought to be insane by those who could not hear the music." - Friedrich Wilhelm Nietzsche (or George Carlin? [Uncertain](http://quoteinvestigator.com/2012/06/05/dance-insane/))
 
@@ -1279,7 +1279,7 @@ The struggle between for and against is the mind's worst disease.
 
 "Simplicity is prerequisite for reliability." - Edsger Dijkstra
 
-"I think the terminology I would use is 'a continuous process of reflection'. I've always thought of only two questions that have mattered to me personally. One is what is really needed in the world and the second is what's really important to me and how these two intersect. It's always been a reflective process -- spiraling around these two poles." - Peter Senge
+"I think the terminology I would use is 'a continuous process of reflection'. I've always thought of only two questions that have mattered to me personally. One is what is really needed in the world and the second is what's really important to me and how these two intersect. It's always been a reflective process---spiraling around these two poles." - Peter Senge
 
 "Kiss slowly, laugh insanely, live truly, and forgive quickly." - Paulo Coelho
 
@@ -1301,13 +1301,13 @@ The struggle between for and against is the mind's worst disease.
 
 "The fact that an opinion has been widely held is no evidence whatever that it is not utterly absurd; indeed in view of the silliness of the majority of mankind, a widespread belief is more likely to be foolish than sensible." - Bertrand Russell
 
-"Dialogue requires space, time, and a calm spirit. People need to be given a chance to tune into themselves. Dialogue is a deep process. For me, this requires some quiet and inner peace -- and some time for interaction." - Bob Niederman
+"Dialogue requires space, time, and a calm spirit. People need to be given a chance to tune into themselves. Dialogue is a deep process. For me, this requires some quiet and inner peace---and some time for interaction." - Bob Niederman
 
 "If you can't solve a problem, then there's an easier problem you can solve: find it." - George Polya
 
 "If you never did, you should. These things are fun and fun is good." - Dr Suess
 
-"We are all born originals -- why is it so many of us die copies?" - Edward Young
+"We are all born originals---why is it so many of us die copies?" - Edward Young
 
 "If I try to be like him, who will be like me?" - Yiddish proverb
 
@@ -1323,7 +1323,7 @@ The struggle between for and against is the mind's worst disease.
 
 "Worrying is using your imagination to create something you don’t want." - Esther Hicks
 
-"...Simplifications have had a much greater long-range scientific impact than individual feats of ingenuity. The opportunity for simplification is very encouraging, because in all examples that come to mind the simple and elegant systems tend to be easier and faster to design and get right, more efficient in execution, and much more reliable than the more contrived contraptions that have to be debugged into some degree of acceptability....Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated." - [Edsger Dijkstra](http://books.google.com/books?id=9P5uwNpP1JAC&pg=PA62&dq=%22Simplifications+have+had+a+much+greater+long-range+scientific+impact+than+individual+feats+of+ingenuity.+The+opportunity+for+simplification+is+very+encouraging,+because+in+all+examples+that+come+to+mind+the+simple+and+elegant+systems+tend+to+be+easier+and+faster+to+design+and+get+right,+more+efficient+in+execution,+and+much+more+reliable+than+the+more+contrived+contraptions+that+have+to+be+debugged+into+some+degree+of+acceptability.%22+%22Simplicity+and+elegance+are+unpopular+because+they+require+hard+work+and+discipline+to+achieve+and+education+to+be+appreciated%22)
+"...Simplifications have had a much greater long-range scientific impact than individual feats of ingenuity. The opportunity for simplification is very encouraging, because in all examples that come to mind the simple and elegant systems tend to be easier and faster to design and get right, more efficient in execution, and much more reliable than the more contrived contraptions that have to be debugged into some degree of acceptability....Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated." - [Edsger Dijkstra](http://books.google.com/books?id=9P5uwNpP1JAC&pg=PA62&dq=%22Simplifications+have+had+a+much+greater+long-range+scientific+impact+than+individual+feats+of+ingenuity)
 
 "Of all tyrannies, a tyranny exercised for the good of its victims may be the most oppressive. It may be better to live under robber barons than under omnipotent moral busybodies. The robber baron's cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end, for they do so with the approval of their consciences." - C.S. Lewis
 
@@ -1375,13 +1375,13 @@ The struggle between for and against is the mind's worst disease.
 
 "Self-judgment is how conditioned mind keeps control over your life." - Cheri Huber
 
-"Nationalism is an infantile disease. It is the measels of mankind. Never do anything against conscience -- even if the state demands it." - Albert Einstein
+"Nationalism is an infantile disease. It is the measels of mankind. Never do anything against conscience---even if the state demands it." - Albert Einstein
 
 "To practice NVC, we must completely abandon the goal of getting other people to do what we want." - Marshall Rosenberg
 
 "As long as you make an identity for yourself out of pain, you cannot be free of it." - Eckhart Tolle
 
-"The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum -- even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate." - Noam Chomsky
+"The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum---even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate." - Noam Chomsky
 
 "There is no ethics in general. There are only--eventually--ethics of processes by which we treat the possibilities of a situation." - Alain Badiou, 'Ethics', 1993.
 
@@ -1614,3 +1614,28 @@ The extraordinary will take care of itself."
 "The Reader may here observe the Force of Numbers, which can be successfully applied, even to those things, which one would imagine are subject to no Rules. There are very few things which we know, which are not capable of being reduc'd to a Mathematical Reasoning; and when they cannot it's a sign our knowledge of them is very small and confus'd; and when a Mathematical Reasoning can be had it's as great a folly to make use of any other, as to grope for a thing in the dark, when you have a Candle standing by you." - John Arbuthnot (Of the Laws of Chance; 1692)
 
 "Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life. An individual human existence should be like a river — small at first, narrowly contained within its banks, and rushing passionately past rocks and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being." - Bertrand Russell (seen on [Brain Pickings](https://www.brainpickings.org/2018/07/03/how-to-grow-old-bertrand-russell/))
+
+"Every sufficiently good analogy is yearning to become a functor." - John Baez
+
+"It is difficult to get a man to understand something, when his salary depends on his not understanding it." - Upton Sinclair
+
+"Do not seek the truth; only cease to cherish opinions." - Seng-ts'an
+
+"Make it work, then make it beautiful, then if you really, really have to, make it fast. 90% of the time, if you make it beautiful, it will already be fast. So really, just make it beautiful!"  - Joe Armstrong
+
+"Ignorance is preferable to error, and he is less remote from the truth who believes nothing than he who believes what is wrong." - Thomas Jefferson
+
+"I hope for nothing. I fear nothing. I am free." - Epitaph on the grave of Kazantzakis in Heraklion.
+
+"Be patient toward all that is unsolved in your heart and try to love the questions themselves, like locked rooms and like books that are now written in a very foreign tongue. Do not now seek the answers, which cannot be given you because you would not be able to live them. And the point is, to live everything. Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer." - Rainer Maria Rilke
+
+"Here it is---right now. Start thinking about it and you miss it."
+- Huang Po
+
+"The problem is not people being uneducated. The problem is that people are educated just enough to believe what they have been taught, and not educated enough to question anything from what they have been taught." - Unknown (Richard Feynman?)
+
+"Order and simplification are the first steps toward mastery of a subject. The actual enemy is the unknown." - Thomas Mann
+
+"The ego names our experience because it cannot directly live it." - Eckhart Toelle
+
+"The answers you get depend on the questions you ask." - Thomas S. Kuhn
