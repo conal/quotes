@@ -1,4 +1,6 @@
-# Some of my favorite quotes
+---
+title: Some of my favorite quotes
+...
 
 "We ascribe beauty to that which is simple; which has no superfluous parts; which exactly answers its end; which stands related to all things; which is the mean of many extremes." - Ralph Waldo Emerson
 
@@ -426,11 +428,11 @@ Kabir
 
 "A human being is a part of a whole, called by us 'universe', a part limited in time and space. He experiences himself, his thoughts and feelings, as something separate from the rest - a kind of optical delusion of consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty." - Albert Einstein
 
-"Enlightenment must come little by little--otherwise it would overwhelm." - Idries Shah
+"Enlightenment must come little by little---otherwise it would overwhelm." - Idries Shah
               
 "Good judgment comes from experience, and experience comes from bad judgment." - Barry LePatner
 
-"Humanity has been sleeping--and still sleeps--lulled within the narrowly confining joys of its little closed loves. In the depths of the human multitude there slumbers an immense spiritual power which will manifest itself only when we have learnt how to break through the dividing walls of our egoism and raise ourselves up to an entirely new perspective, so that habitually and in a practical fashion we fix our gaze on the universal realities." - Pierre Teilhard de Chardin
+"Humanity has been sleeping---and still sleeps---lulled within the narrowly confining joys of its little closed loves. In the depths of the human multitude there slumbers an immense spiritual power which will manifest itself only when we have learnt how to break through the dividing walls of our egoism and raise ourselves up to an entirely new perspective, so that habitually and in a practical fashion we fix our gaze on the universal realities." - Pierre Teilhard de Chardin
 
 "The life of every man is a diary in which he means to write one story, and writes another, and his humblest hour is when he compares the volume as it is with what he vowed to make it." - James Barrie
 
@@ -478,7 +480,7 @@ Kabir
 
 "It's a poor sort of memory that only works backwards." - Lewis Carroll
 
-"I've had a lot of trouble in my life--most of which never happened." - Mark Twain
+"I've had a lot of trouble in my life---most of which never happened." - Mark Twain
 
 "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Buckminster Fuller
 
@@ -734,7 +736,7 @@ Lawrence Binyon
 
 "It is no measure of health to be well adjusted to a profoundly sick society." - Krishnamurti
 
-"Here it is --- right now. Start thinking about it and you miss it." - Huang Po
+"Here it is---right now. Start thinking about it and you miss it." - Huang Po
 
 "Dare to be naive." - R. Buckminster Fuller
 
@@ -999,7 +1001,7 @@ The struggle between for and against is the mind's worst disease.
 
 "There must be a way of promoting human values without involving religion, based on common sense, experience and recent scientific findings." - [Dalai Lama](https://twitter.com/DalaiLama/status/22074824373)
 
-"Life is glorious, but life is also wretched. It is both. Appreciating the gloriousness inspires us, encourages us, cheers us up, gives us a bigger perspective, energizes us. We feel connected. But if that's all that's happening, we get arrogant and start to look down on others, and there is a sense of making ourselves a big deal and being really serious about it, wanting it to be like that forever. The gloriousness becomes tinged by craving and addiction. On the other hand, wretchedness--life's painful aspect--softens us up considerably. Knowing pain is a very important ingredient of being there for another person. When you are feeling a lot of grief, you can look right into somebody's eyes because you feel you haven't got anything to lose--you're just there. The wretchedness humbles us and softens us, but if we were only wretched, we would all just go down the tubes. We'd be so depressed, discouraged, and hopeless that we wouldn't have enough energy to eat an apple. Gloriousness and wretchedness need each other. One inspires us, the other softens us. They go together." - Pema Chödrön (Start Where You Are: A Guide to Compassionate Living) 
+"Life is glorious, but life is also wretched. It is both. Appreciating the gloriousness inspires us, encourages us, cheers us up, gives us a bigger perspective, energizes us. We feel connected. But if that's all that's happening, we get arrogant and start to look down on others, and there is a sense of making ourselves a big deal and being really serious about it, wanting it to be like that forever. The gloriousness becomes tinged by craving and addiction. On the other hand, wretchedness---life's painful aspect---softens us up considerably. Knowing pain is a very important ingredient of being there for another person. When you are feeling a lot of grief, you can look right into somebody's eyes because you feel you haven't got anything to lose---you're just there. The wretchedness humbles us and softens us, but if we were only wretched, we would all just go down the tubes. We'd be so depressed, discouraged, and hopeless that we wouldn't have enough energy to eat an apple. Gloriousness and wretchedness need each other. One inspires us, the other softens us. They go together." - Pema Chödrön (Start Where You Are: A Guide to Compassionate Living) 
 
 "Knowing pain is a very important ingredient of being there for another person." - Pema Chödrön
 
@@ -1199,7 +1201,7 @@ The struggle between for and against is the mind's worst disease.
 
 "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." - John von Neumann
 
-"The two Virtues of Equanimity and Compassion become more available to the person whose ego-shell has been smashed--either by great suffering or by great love--or by both." - Richard Rohr
+"The two Virtues of Equanimity and Compassion become more available to the person whose ego-shell has been smashed---either by great suffering or by great love---or by both." - Richard Rohr
 
 "Don't ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive." - Howard Thurman
 
@@ -1241,7 +1243,7 @@ The struggle between for and against is the mind's worst disease.
 
 "The shortest path to exceeding expectations doesn't generally pass through meeting expectations." - [Ward Cunningham](https://twitter.com/wardcunningham/status/90652786592714752)
 
-"I don't let go of my thoughts--I meet them with understanding, then they let go of me." - [Byron Katie](https://twitter.com/byronkatie/status/90808945811259392)
+"I don't let go of my thoughts---I meet them with understanding, then they let go of me." - [Byron Katie](https://twitter.com/byronkatie/status/90808945811259392)
 
 "The truth you believe and cling to makes you unavailable to hear anything new." - Pema Chödrön
 
@@ -1261,7 +1263,7 @@ The struggle between for and against is the mind's worst disease.
 
 "In the future, we will hold jealousy as a call for support, not a proof of love. A love where no one sacrifices to another, but grace is evoked through the sharing of deep vulnerability." - Kelly Bryson
 
-"drop the story line, which means instead of acting out/repressing--use the situation as an opportunity to feel your heart, to feel the wound." - Pema Chödrön
+"drop the story line, which means instead of acting out/repressing---use the situation as an opportunity to feel your heart, to feel the wound." - Pema Chödrön
 
 "Feel the wounded heart that's underneath the addiction, self-loathing, or anger."- Pema Chödrön
 
@@ -1383,7 +1385,7 @@ The struggle between for and against is the mind's worst disease.
 
 "The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum---even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate." - Noam Chomsky
 
-"There is no ethics in general. There are only--eventually--ethics of processes by which we treat the possibilities of a situation." - Alain Badiou, 'Ethics', 1993.
+"There is no ethics in general. There are only---eventually---ethics of processes by which we treat the possibilities of a situation." - Alain Badiou, 'Ethics', 1993.
 
 "As you inquire into issues and turn judgments around, you come to see that every perceived problem appearing 'out there' is really nothing more than a misperception within your own thinking." - Byron Katie
 
@@ -1393,7 +1395,7 @@ The struggle between for and against is the mind's worst disease.
 
 "In that it dulls curiosity, the obvious is the enemy of the true." - Conal Elliott
 
-"My own approach to literary problems is very like the one Dr. Johnson's blind housekeeper used when she poured tea--she put her finger inside the cup." - Flannery O'Connor
+"My own approach to literary problems is very like the one Dr. Johnson's blind housekeeper used when she poured tea---she put her finger inside the cup." - Flannery O'Connor
 
 "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." - Oscar Wilde
 
@@ -1449,7 +1451,7 @@ The struggle between for and against is the mind's worst disease.
 
 Problems worthy of attack  
 prove their worth by hitting back.  
--- Piet Hein
+- Piet Hein
 
 "Any story that you tell about yourself is food for the ego. There is no authentic story." - Byron Katie
 
@@ -1475,7 +1477,7 @@ prove their worth by hitting back.
 
 "Peace of mind is not the absence of conflict from life, but the ability to cope with it." - Unknown
 
-"A ship in harbor is safe --- but that is not what ships are for." - John A. Shedd
+"A ship in harbor is safe---but that is not what ships are for." - John A. Shedd
 
 "We seldom realize, for example that our most private thoughts and emotions are not actually our own. For we think in terms of languages and images which we did not invent, but which were given to us by our society." - Alan Wilson Watts 
 
@@ -1523,7 +1525,7 @@ prove their worth by hitting back.
 
 "It's not good to settle into a set of opinions; it's a mistake to put in effort and obtain some understanding and stop at that." - Hagakure
 
-"The question you raise 'how can such a formulation lead to computations' doesn't bother me in the least! Throughout my whole life as a mathematician, the possibility of making explicit, elegant computations has always come out by itself, as a byproduct of a thorough conceptual understanding of what was going on. Thus I never bothered about whether what would come out would be suitable for this or that, but just tried to understand --- and it always turned out that understanding was all that mattered." - Alexander Grothendieck (in a letter to Ronnie Brown, December 4, 1983)
+"The question you raise 'how can such a formulation lead to computations' doesn't bother me in the least! Throughout my whole life as a mathematician, the possibility of making explicit, elegant computations has always come out by itself, as a byproduct of a thorough conceptual understanding of what was going on. Thus I never bothered about whether what would come out would be suitable for this or that, but just tried to understand---and it always turned out that understanding was all that mattered." - Alexander Grothendieck (in a letter to Ronnie Brown, December 4, 1983)
 
 "If a problem is fixable, if a situation is such that you can do something about it, then there is no need to worry. If it's not fixable, then there is no help in worrying. There is no benefit in worrying whatsoever." - Dalai Lama XIV (1935- )
 
@@ -1537,7 +1539,7 @@ prove their worth by hitting back.
 
 "Waking up to who you are requires letting go of who you imagine yourself to be." -  Alan Watts
 
-"Insanity in individuals is something rare --- but in groups, parties, nations and epochs, it is the rule." - Friedrich Nietzsche 
+"Insanity in individuals is something rare---but in groups, parties, nations and epochs, it is the rule." - Friedrich Nietzsche 
 
 "I mean by intellectual integrity the habit of deciding vexed questions in accordance with the evidence, or of leaving them undecided where the evidence is inconclusive. This virtue, though it is underestimated by almost all adherents of any system of dogma, is to my mind of the very greatest social importance and far more likely to benefit the world than Christianity or any other system of organized beliefs." - Bertrand Russell, Can Religion Cure Our Troubles (1954)
 
@@ -1597,7 +1599,7 @@ in the touch of a hand.
 And make the ordinary come alive for them.  
 The extraordinary will take care of itself."
 
--- William Martin, The Parent's Tao Te Ching: Ancient Advice for Modern Parents
+- William Martin, The Parent's Tao Te Ching: Ancient Advice for Modern Parents
 
 "Those who are awake live in a state of constant amazement." - Siddhārtha Gautama
 
