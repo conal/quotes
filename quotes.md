@@ -801,7 +801,7 @@ The struggle between for and against is the mind's worst disease.
 
 "Be silent or let thy words be worth more than silence." - Pythagoras
 
-"Love possesses not nor would it be possessed; For love is sufficient unto love" - Kahlil Gibran
+"Love possesses not nor would it be possessed; For love is sufficient unto love." - Kahlil Gibran
 
 "Philosophers' Syndrome: mistaking a failure of imagination for an insight into necessity" (Daniel Dennett, Consciousness Explained, 1991).
 
@@ -1641,3 +1641,10 @@ The extraordinary will take care of itself."
 "The ego names our experience because it cannot directly live it." - Eckhart Toelle
 
 "The answers you get depend on the questions you ask." - Thomas S. Kuhn
+
+"Love yields to busyness. If you seek a way out of love, be busy; you’ll be safe, then."
+- Ovid, Remedia Amoris (via Julian Kain)
+
+"The creative adult is the child who survived after the world tried killing them, making them grown up. The creative adult is the child who survived the blandness of, the unhelpful words of bad teachers, and the nay-saying ways of the world. The creative adult is in essence simply that, a child." - Ursula Le Guin
+
+"Without a specification, a system cannot be wrong, it can only be surprising." — Gary McGraw
