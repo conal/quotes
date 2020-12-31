@@ -1451,7 +1451,7 @@ The struggle between for and against is the mind's worst disease.
 
 Problems worthy of attack  
 prove their worth by hitting back.  
-- Piet Hein
+\- Piet Hein
 
 "Any story that you tell about yourself is food for the ego. There is no authentic story." - Byron Katie
 
@@ -1581,8 +1581,7 @@ prove their worth by hitting back.
 
 "Programmers often think they want mechanisms that come from operational thinking. Part of the art of API design is saying "no" at the right times, when it's more helpful for the programmers to change their thinking." - Conal Elliott
 
-"The mystic has seen that the meaning of being alive is just to be alive. That is to say, when I look at the color of your hair and the shape of your eyebrow, I understand that their shape and color are their point. And this what we are all here for, as well: to be. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves. The funny thing is, they are not even quite sure what they need to achieve, but they are devilishly intent on achieving it."
-- Alan Watts, Eastern Wisdom, Modern Life: Collected Talks: 1960-1969
+"The mystic has seen that the meaning of being alive is just to be alive. That is to say, when I look at the color of your hair and the shape of your eyebrow, I understand that their shape and color are their point. And this what we are all here for, as well: to be. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves. The funny thing is, they are not even quite sure what they need to achieve, but they are devilishly intent on achieving it." - Alan Watts, Eastern Wisdom, Modern Life: Collected Talks: 1960-1969
 
 "Do not ask your children  
 to strive for extraordinary lives.  
@@ -1599,7 +1598,7 @@ in the touch of a hand.
 And make the ordinary come alive for them.  
 The extraordinary will take care of itself."
 
-- William Martin, The Parent's Tao Te Ching: Ancient Advice for Modern Parents
+\- William Martin, The Parent's Tao Te Ching: Ancient Advice for Modern Parents
 
 "Those who are awake live in a state of constant amazement." - Siddhārtha Gautama
 
@@ -1631,8 +1630,7 @@ The extraordinary will take care of itself."
 
 "Be patient toward all that is unsolved in your heart and try to love the questions themselves, like locked rooms and like books that are now written in a very foreign tongue. Do not now seek the answers, which cannot be given you because you would not be able to live them. And the point is, to live everything. Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer." - Rainer Maria Rilke
 
-"Here it is---right now. Start thinking about it and you miss it."
-- Huang Po
+"Here it is---right now. Start thinking about it and you miss it." - Huang Po
 
 "The problem is not people being uneducated. The problem is that people are educated just enough to believe what they have been taught, and not educated enough to question anything from what they have been taught." - Unknown (Richard Feynman?)
 
@@ -1642,8 +1640,7 @@ The extraordinary will take care of itself."
 
 "The answers you get depend on the questions you ask." - Thomas S. Kuhn
 
-"Love yields to busyness. If you seek a way out of love, be busy; you’ll be safe, then."
-- Ovid, Remedia Amoris (via Julian Kain)
+"Love yields to busyness. If you seek a way out of love, be busy; you’ll be safe, then." - Ovid, Remedia Amoris (via Julian Kain)
 
 "The creative adult is the child who survived after the world tried killing them, making them grown up. The creative adult is the child who survived the blandness of, the unhelpful words of bad teachers, and the nay-saying ways of the world. The creative adult is in essence simply that, a child." - Ursula Le Guin
 
