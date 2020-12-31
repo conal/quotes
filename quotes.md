@@ -1,6 +1,6 @@
 ---
 title: Some of my favorite quotes
-...
+---
 
 "We ascribe beauty to that which is simple; which has no superfluous parts; which exactly answers its end; which stands related to all things; which is the mean of many extremes." - Ralph Waldo Emerson
 
@@ -1647,4 +1647,18 @@ The extraordinary will take care of itself."
 
 "The creative adult is the child who survived after the world tried killing them, making them grown up. The creative adult is the child who survived the blandness of, the unhelpful words of bad teachers, and the nay-saying ways of the world. The creative adult is in essence simply that, a child." - Ursula Le Guin
 
-"Without a specification, a system cannot be wrong, it can only be surprising." — Gary McGraw
+"Without a specification, a system cannot be wrong, it can only be surprising." - Gary McGraw
+
+"Almost every problem that you come across is befuddled with all kinds of extraneous data of one sort or another; and if you can bring this problem down into the main issues, you can see more clearly what you're trying to do." - Claude Shannon, quoted in *A Mind at Play*
+
+"Physics is about precision of thought, which is aided and evidenced by precision of language."
+- Brian Cox and Andrew Cohen from *Forces of Nature*
+
+"Allow me a single paragraph of postgraduate-level physics. I want to take this liberty for two reasons. The first is that there is great joy to be had in understanding a complex idea, and in doing so glimpsing the underlying simplicity and beauty of Nature. The biologist Edward O. Wilson coined the term 'Ionian Enchantment' for this feeling, named after Thales of Miletus, credited by Aristotle as laying the foundations for the physical sciences in 600 BC on the Greek island of Ionia. The feeling is one of elation when something about nature is understood, and seen to be elegant. The second reason is to revisit and enhance an idea we've been developing. Science is all about making careful observations and trying to explain what you see. That might be the hexagonal structure of a beehive, the jagged symmetry of a snowflake, or the details of how electrons bounce off protons. Careful observations lead to Ionian Enchantment."
+- Brian Cox and Andrew Cohen from *Forces of Nature*
+
+"A tremendous economy of description is one of the defining and most surprising features of modern science; it is not a priori obvious that a small collection of fundamental laws should be capable of describing the limitless complexity of objects that populate our universe, and yet this is what we have discovered over the last few centuries. Perhaps a universe regular enough to permit the existence of natural objects as complex as the human brain must be governed by a simple set of laws, but since we do not yet understand the origin of the laws, we do not know."
+- Brian Cox and Andrew Cohen from *Forces of Nature*
+
+"Science is delighted frustration. It is about asking questions, to which the answers may be unavailable–now, or perhaps ever. It is about noticing regularities, asserting that these regularities must have natural explanations and searching for those explanations."
+- Brian Cox and Andrew Cohen from *Forces of Nature*
