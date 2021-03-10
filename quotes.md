@@ -222,7 +222,7 @@ Kabir
 
 "How different our lives are when we really know what is deeply important to us, and keeping that picture in mind, we manage ourselves each day to be and to do what really matters most." - Stephen Covey
 
-"If you want happiness for an hour - take a nap. If you want happiness for a day - go fishing. If you want happiness for a month - get married. If you want happiness for a year - inherit a fortune. If you want happiness for a lifetime - help someone else." - Chinese Proverb
+"If you want happiness for an hour, take a nap. If you want happiness for a day, go fishing. If you want happiness for a month, get married. If you want happiness for a year, inherit a fortune. If you want happiness for a lifetime, help someone else." - Chinese Proverb
 
 "Don't be afraid to take a big step if one is indicated. You can't cross a chasm in two small jumps." - David Lloyd George
 
