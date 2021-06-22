@@ -1575,7 +1575,7 @@ prove their worth by hitting back.
 
 "We are living in a culture entirely hypnotized by the illusion of time, in which the so-called present moment is felt as nothing but an infintesimal hairline between an all-powerfully causative past and an absorbingly important future. We have no present. Our consciousness is almost completely preoccupied with memory and expectation. We do not realize that there never was, is, nor will be any other experience than present experience. We are therefore out of touch with reality. We confuse the world as talked about, described, and measured with the world which actually is. We are sick with a fascination for the useful tools of names and numbers, of symbols, signs, conceptions and ideas." - Alan Watts
 
-"It is foolish to answer a question that you do not understand." - George Polya
+"It is foolish to answer a question that you do not understand." - George Pólya
 
 "Man is not a rational animal; he is a rationalizing animal." - Robert Heinlein
 
@@ -1602,7 +1602,7 @@ The extraordinary will take care of itself."
 
 "Those who are awake live in a state of constant amazement." - Siddhārtha Gautama
 
-"I don't know who discovered water, but I'm pretty sure it wasn't a fish." - Marshall McLuhan and others)
+"I don't know who discovered water, but I'm pretty sure it wasn't a fish." - Marshall McLuhan (and others)
 
 "The greatest weapon against stress is our ability to choose one thought over another." - William James
 
@@ -1614,7 +1614,7 @@ The extraordinary will take care of itself."
 
 "The Reader may here observe the Force of Numbers, which can be successfully applied, even to those things, which one would imagine are subject to no Rules. There are very few things which we know, which are not capable of being reduc'd to a Mathematical Reasoning; and when they cannot it's a sign our knowledge of them is very small and confus'd; and when a Mathematical Reasoning can be had it's as great a folly to make use of any other, as to grope for a thing in the dark, when you have a Candle standing by you." - John Arbuthnot (Of the Laws of Chance; 1692)
 
-"Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life. An individual human existence should be like a river — small at first, narrowly contained within its banks, and rushing passionately past rocks and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being." - Bertrand Russell (seen on [Brain Pickings](https://www.brainpickings.org/2018/07/03/how-to-grow-old-bertrand-russell/))
+"Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life. An individual human existence should be like a river-—-small at first, narrowly contained within its banks, and rushing passionately past rocks and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being." - Bertrand Russell (seen on [Brain Pickings](https://www.brainpickings.org/2018/07/03/how-to-grow-old-bertrand-russell/))
 
 "Every sufficiently good analogy is yearning to become a functor." - John Baez
 
@@ -1657,3 +1657,5 @@ The extraordinary will take care of itself."
 "Science is delighted frustration. It is about asking questions, to which the answers may be unavailable---now, or perhaps ever. It is about noticing regularities, asserting that these regularities must have natural explanations and searching for those explanations." - Brian Cox and Andrew Cohen from *Forces of Nature*
 
 "It takes a lot of programming to get back from a little programming that deviates from mathematical logic." - Xavier Leroy
+
+"Direction is much more important than speed." - Richard Feynman
