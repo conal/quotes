@@ -1659,3 +1659,11 @@ The extraordinary will take care of itself."
 "It takes a lot of programming to get back from a little programming that deviates from mathematical logic." - Xavier Leroy
 
 "Direction is much more important than speed." - Richard Feynman
+
+"The quieter you become, the more you are able to hear." - Rumi
+
+"To explain all nature is too difficult a task for any one man or even for any one age. Tis much better to do a little with certainty & leave the rest for others that come after than to explain all things by conjecture without making sure of any thing." - Isaac Newton
+
+"What can be asserted without evidence can also be dismissed without evidence." - Christopher Hitchens ("[Hitchens's razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor)")
+
+"Extraordinary claims require extraordinary evidence." (ECREE) - Carl Sagan (the "[Sagan standard](https://en.wikipedia.org/wiki/Sagan_standard)")
