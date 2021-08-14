@@ -1667,3 +1667,5 @@ The extraordinary will take care of itself."
 "What can be asserted without evidence can also be dismissed without evidence." - Christopher Hitchens ("[Hitchens's razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor)")
 
 "Extraordinary claims require extraordinary evidence." (ECREE) - Carl Sagan (the "[Sagan standard](https://en.wikipedia.org/wiki/Sagan_standard)")
+
+"When you can measure what you are speaking about, and express it in numbers, you know something about it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts advanced to the stage of science." - [Lord Kelvin (William Thomson)](https://www.goodreads.com/quotes/166961-when-you-can-measure-what-you-are-speaking-about-and)
