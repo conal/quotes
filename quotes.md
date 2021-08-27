@@ -280,7 +280,7 @@ Kabir
 
 "Sometimes our light goes out but is blown into flame by another human being. Each of us owes deepest thanks to those who have rekindled this light." - Albert Schweitzer
 
-"I have accepted fear as a part of life - specifically the fear of change. I have gone ahead despite the pounding in the heart that says: turn back." - Erica Jong
+"I have accepted fear as a part of life---specifically the fear of change. I have gone ahead despite the pounding in the heart that says: turn back." - Erica Jong
 
 "Our chief want is someone who will inspire us to be what we know we could be." - Ralph Waldo Emerson
 
@@ -705,9 +705,9 @@ Rumi, Mathnawi II: 2327-2332, version by Camille and Kabir Helminski, [posted to
 
 "It is difficult to get a man to understand something when his salary depends on his not understanding it." - Upton Sinclair
 
-Are you willing to
-  let go of all you hold dear
-    to grasp what is real?
+Are you willing to  
+  let go of all you hold dear  
+    to grasp what is real?  
        - N. Robison 01/01/09
 
 "If you wish to see the truth, then hold no opinion for or against" - Osho (Rajneesh Chandra Mohan Jain)
@@ -724,13 +724,13 @@ Are you willing to
 
 "Doubt everything. Find your own light." - Buddha? ([disputed](https://fakebuddhaquotes.com/doubt-everything-find-your-own-light/))
 
-<pre class=poem>
-We too
-should make ourselves empty,
-that the great soul of the universe
+<div class=poem>
+We too  
+should make ourselves empty,  
+that the great soul of the universe  
 may fill us with its breath.
-</pre>
-Lawrence Binyon
+</div>
+\- Lawrence Binyon
 
 "Practice not-doing, and everything will fall into place." - Lao-tzu
 
@@ -1579,7 +1579,7 @@ prove their worth by hitting back.
 
 "Man is not a rational animal; he is a rationalizing animal." - Robert Heinlein
 
-"Programmers often think they want mechanisms that come from operational thinking. Part of the art of API design is saying "no" at the right times, when it's more helpful for the programmers to change their thinking." - Conal Elliott
+"Programmers often think they want mechanisms that come from operational thinking. Part of the art of API design is saying 'no' at the right times, when it's more helpful for the programmers to change their thinking." - Conal Elliott
 
 "The mystic has seen that the meaning of being alive is just to be alive. That is to say, when I look at the color of your hair and the shape of your eyebrow, I understand that their shape and color are their point. And this what we are all here for, as well: to be. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves. The funny thing is, they are not even quite sure what they need to achieve, but they are devilishly intent on achieving it." - Alan Watts, Eastern Wisdom, Modern Life: Collected Talks: 1960-1969
 
@@ -1669,3 +1669,7 @@ The extraordinary will take care of itself."
 "Extraordinary claims require extraordinary evidence." (ECREE) - Carl Sagan (the "[Sagan standard](https://en.wikipedia.org/wiki/Sagan_standard)")
 
 "When you can measure what you are speaking about, and express it in numbers, you know something about it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts advanced to the stage of science." - [Lord Kelvin (William Thomson)](https://www.goodreads.com/quotes/166961-when-you-can-measure-what-you-are-speaking-about-and)
+
+"In Galileo's time, professors of philosophy and theology---the subjects were inseparable---produced grand discourses on the nature of reality, the structure of the universe, and the way the world works, all based on sophisticated metaphysical arguments. Meanwhile, Galileo measured how fast balls roll down inclined planes. How mundane! But the learned discourses, while grand, were vague. Galileo's investigations were clear and precise. The old metaphysics never progressed, while Galileo's work bore abundant, and at length spectacular, fruit. Galileo too cared about the big questions, but he realized that getting genuine answers requires patience and humility before the facts." - Frank Wilczek, [*The Lightness of Being*](https://www.goodreads.com/book/show/3209381-the-lightness-of-being) (pp. 7-8)
+
+"If a theory has a lot of parameters, you adjust their values to fit a lot of data, and your theory is not really predicting those things, just accommodating them. Scientists use words like curve fitting and fudge factors to describe that sort of activity. Those phrases aren't meant to be flattering. On the other hand, if a theory has just a few parameters but applies to a lot of data, it has real power. You can use a small subset of the measurements to fix the parameters; then all other measurements are uniquely predicted." - Frank Wilczek, [*The Lightness of Being: Mass, Ether, and the Unification of Forces*](https://www.goodreads.com/book/show/3209381-the-lightness-of-being)
