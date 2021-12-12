@@ -1638,8 +1638,6 @@ The extraordinary will take care of itself."
 
 "The ego names our experience because it cannot directly live it." - Eckhart Toelle
 
-"The answers you get depend on the questions you ask." - Thomas S. Kuhn
-
 "Love yields to busyness. If you seek a way out of love, be busy; you’ll be safe, then." - Ovid, Remedia Amoris (via Julian Kain)
 
 "The creative adult is the child who survived after the world tried killing them, making them grown up. The creative adult is the child who survived the blandness of, the unhelpful words of bad teachers, and the nay-saying ways of the world. The creative adult is in essence simply that, a child." - Ursula Le Guin
@@ -1693,3 +1691,5 @@ When Newton encoded Kepler's three laws of planetary motion into his law of univ
 "Truth emerges more readily from error than from confusion." - Francis Bacon
 
 "In an honest search for knowledge you quite often have to abide by ignorance for an indefinite period. Instead of filling a gap by guesswork, genuine science prefers to put up with it; and this, not so much from conscientious scruples about telling lies, as from the consideration that, however irksome the gap may be, its obliteration by a fake removes the urge to seek after a tenable answer. So efficiently may attention be diverted that the answer is missed even when, by good luck, it comes close at hand. The steadfastness in standing up to a non liquet, nay in appreciating it as a stimulus and a signpost to further quest, is a natural and indispensable disposition in the mind of a scientist." - Erwin Schrödinger. 'Nature and the Greeks' and 'Science and Humanism' (Canto Classics)
+
+"[T]he power of a type system arises from its strictures, which can be selectively relaxed, not its affordances, which sacrifice the ability to draw sharp distinctions." - [Bob Harper](https://lists.seas.upenn.edu/pipermail/types-list/2014/001748.html)
