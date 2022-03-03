@@ -86,8 +86,6 @@ Kabir
 
 "Happiness is the absence of the striving for happiness." - Chuang-tzu
 
-"The refusal to choose is a form of choice; disbelief is a form of belief." - Frank Barron
-
 "There is no excellent beauty that hath not some strangeness in the proportion." - Francis Bacon
 
 "Nothing makes us so lonely as our secrets." - Paul Tournier
@@ -1045,6 +1043,8 @@ The struggle between for and against is the mind's worst disease.
 
 "You can never cross the ocean unless you have the courage to lose sight of the shore." - Christopher Columbus
 
+"You can never cross the ocean until you have the courage to lose sight of the shore." - André Gide
+
 "A programming language is low level when its programs require attention to the irrelevant." - Alan Perlis
 
 "So often I hear 'The Real World' as a static notion (e.g., 'but in the Real World ...'). I'm for helping the Real World evolve." - Conal Elliott
@@ -1668,7 +1668,7 @@ The extraordinary will take care of itself."
 
 "When you can measure what you are speaking about, and express it in numbers, you know something about it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts advanced to the stage of science." - [Lord Kelvin (William Thomson)](https://www.goodreads.com/quotes/166961-when-you-can-measure-what-you-are-speaking-about-and)
 
-"In Galileo's time, professors of philosophy and theology---the subjects were inseparable---produced grand discourses on the nature of reality, the structure of the universe, and the way the world works, all based on sophisticated metaphysical arguments. Meanwhile, Galileo measured how fast balls roll down inclined planes. How mundane! But the learned discourses, while grand, were vague. Galileo's investigations were clear and precise. The old metaphysics never progressed, while Galileo's work bore abundant, and at length spectacular, fruit. Galileo too cared about the big questions, but he realized that getting genuine answers requires patience and humility before the facts." - Frank Wilczek, [*The Lightness of Being*](https://www.goodreads.com/book/show/3209381-the-lightness-of-being) (pp. 7-8)
+"In Galileo's time, professors of philosophy and theology---the subjects were inseparable---produced grand discourses on the nature of reality, the structure of the universe, and the way the world works, all based on sophisticated metaphysical arguments. Meanwhile, Galileo measured how fast balls roll down inclined planes. How mundane! But the learned discourses, while grand, were vague. Galileo's investigations were clear and precise. The old metaphysics never progressed, while Galileo's work bore abundant, and at length spectacular, fruit. Galileo too cared about the big questions, but he realized that getting genuine answers requires patience and humility before the facts." - Frank Wilczek, [*The Lightness of Being: Mass, Ether, and the Unification of Forces*](https://www.goodreads.com/book/show/3209381-the-lightness-of-being) (pp. 7-8)
 
 "If a theory has a lot of parameters, you adjust their values to fit a lot of data, and your theory is not really predicting those things, just accommodating them. Scientists use words like curve fitting and fudge factors to describe that sort of activity. Those phrases aren't meant to be flattering. On the other hand, if a theory has just a few parameters but applies to a lot of data, it has real power. You can use a small subset of the measurements to fix the parameters; then all other measurements are uniquely predicted." - Frank Wilczek, [*The Lightness of Being: Mass, Ether, and the Unification of Forces*](https://www.goodreads.com/book/show/3209381-the-lightness-of-being)
 
@@ -1693,3 +1693,14 @@ When Newton encoded Kepler's three laws of planetary motion into his law of univ
 "In an honest search for knowledge you quite often have to abide by ignorance for an indefinite period. Instead of filling a gap by guesswork, genuine science prefers to put up with it; and this, not so much from conscientious scruples about telling lies, as from the consideration that, however irksome the gap may be, its obliteration by a fake removes the urge to seek after a tenable answer. So efficiently may attention be diverted that the answer is missed even when, by good luck, it comes close at hand. The steadfastness in standing up to a non liquet, nay in appreciating it as a stimulus and a signpost to further quest, is a natural and indispensable disposition in the mind of a scientist." - Erwin Schrödinger. 'Nature and the Greeks' and 'Science and Humanism' (Canto Classics)
 
 "[T]he power of a type system arises from its strictures, which can be selectively relaxed, not its affordances, which sacrifice the ability to draw sharp distinctions." - [Bob Harper](https://lists.seas.upenn.edu/pipermail/types-list/2014/001748.html)
+
+**Don’t waste the good days**  
+If you’re feeling creative, do the errands tomorrow.  
+If you’re fit and healthy, take a day to go surfing.  
+When inspiration strikes, write it down.  
+The calendar belongs to everyone else. Their schedule isn’t your schedule unless it helps you get where you’re going.  
+-- [Seth Godin](https://seth.blog/2021/12/dont-waste-the-good-days/)
+
+"We face no such difficulty if we see that what is being transmitted genetically is not ADD or its equally ill-mannered and discombobulating relatives, but sensitivity. The existence of sensitive people is an advantage for humankind because it is this group that best expresses humanity's creative urges and needs. Through their instinctual responses the world is best interpreted. Under normal circumstances, they are artists or artisans, seekers, inventors, shamans, poets, prophets. There would be valid and powerful evolutionary reasons for the survival of genetic material coding for sensitivity. It is not diseases that are being inherited but a trait of intrinsic survival value to human beings. Sensitivity is transmuted into suffering and disorders only when the world is unable to heed the exquisitely tuned physiological and psychic responses of the sensitive individual." - Gabor Maté, Scattered: How Attention Deficit Disorder Originates And What You Can Do About It
+
+"It is difficult to get a man to understand something, when his salary depends on his not understanding it." - Upton Sinclair
