@@ -760,8 +760,6 @@ may fill us with its breath.
 
 "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
-"If the world is to be saved at all, it won't be saved by old minds with new programs, but by new minds with no programs." - Daniel Quinn
-
 "If the world is saved, it will not be saved by old minds with new programs but by new minds with no programs at all." - Daniel Quinn (The Story of B)
 
 "Don't choose one side of the argument. Learn to take both sides & work towards the middle." - Paul Ferrini
@@ -1543,7 +1541,7 @@ prove their worth by hitting back.
 
 "I mean by intellectual integrity the habit of deciding vexed questions in accordance with the evidence, or of leaving them undecided where the evidence is inconclusive. This virtue, though it is underestimated by almost all adherents of any system of dogma, is to my mind of the very greatest social importance and far more likely to benefit the world than Christianity or any other system of organized beliefs." - Bertrand Russell, Can Religion Cure Our Troubles (1954)
 
-"When your eyes are functioning well you don't see your eyes. If your eyes are imperfect you see spots in front of them. That means there are some lesions in the retina or wherever, and because your eyes aren't working properly, you feel them. In the same way, you don't hear your ears. If you have a ringing in your ears it means there's something wrong with your ears. Therefore, if you do feel yourself, there must be something wrong with you. Whatever you have, the sensation of I is like spots in front of your eyes - it means something's wrong with your functioning." - Alan Watts (Ego - from the Essential Alan Watts)
+"When your eyes are functioning well you don't see your eyes. If your eyes are imperfect you see spots in front of them. That means there are some lesions in the retina or wherever, and because your eyes aren't working properly, you feel them. In the same way, you don't hear your ears. If you have a ringing in your ears it means there's something wrong with your ears. Therefore, if you do feel yourself, there must be something wrong with you. Whatever you have, the sensation of I is like spots in front of your eyes---it means something's wrong with your functioning." - Alan Watts (Ego - from the Essential Alan Watts)
 
 "The formulation of a problem is often more essential than its solution, which may be merely a matter of mathematical or experimental skill. To raise new questions, new possibilities, to regard old problems from a new angle requires creative imagination and marks real advances in science." - Albert Einstein
 
@@ -1680,7 +1678,7 @@ The extraordinary will take care of itself."
 
 "We've been able to make short codes that describe large parts of reality fully and accurately. More than this: in the past, as we've made our codes shorter and more abstract, we've discovered that unfolding the new codes gives expanded messages, which turn out to correspond to new aspects of reality.
 
-When Newton encoded Kepler's three laws of planetary motion into his law of universal gravity, explanations of the tides, the precession of the equinoxes, and many other tilts and wobbles tumbled out. In 1846, after almost two centuries of triumph upon triumph for Newton's gravity, small discrepancies were showing up in the orbit of Uranus. Urbain Le Verrier found that he could account for these discrepancies by assuming the existence of a new planet. And lo and behold, when observers turned their telescopes where he suggested they look, there was Neptune! (Today's dark-matter problem is an uncanny echo, as we'll see.)" - Frank Wilczek, [*The Lightness of Being: Mass, Ether, and the Unification of Forces*](https://www.goodreads.com/book/show/3209381-the-lightness-of-being)
+When Newton encoded Kepler's three laws of planetary motion into his law of universal gravity, explanations of the tides, the precession of the equinoxes, and many other tilts and wobbles tumbled out. In 1846, after almost two centuries of triumph upon triumph for Newton's gravity, small discrepancies were showing up in the orbit of Uranus. Urbain Le Verrier found that he could account for these discrepancies by assuming the existence of a new planet. And lo and behold, when observers turned their telescopes where he suggested they look, there was Neptune!" - Frank Wilczek, [*The Lightness of Being: Mass, Ether, and the Unification of Forces*](https://www.goodreads.com/book/show/3209381-the-lightness-of-being)
 
 "Many creative computer scientists have retreated from inventing languages to inventing tools for describing them. Unfortunately, they have been largely content to apply their elegant new tools to studying the warts and moles of existing languages. After examining the appalling type structure of conventional languages, using the elegant tools developed by Dana Scott, it is surprising that so many of us remain passively content with that structure instead of energetically searching for new ones." - John Backus (Section one of his [Turing Award lecture](https://www.cs.cmu.edu/~crary/819-f09/Backus78.pdf))
 
@@ -1690,17 +1688,31 @@ When Newton encoded Kepler's three laws of planetary motion into his law of univ
 
 "Truth emerges more readily from error than from confusion." - Francis Bacon
 
-"In an honest search for knowledge you quite often have to abide by ignorance for an indefinite period. Instead of filling a gap by guesswork, genuine science prefers to put up with it; and this, not so much from conscientious scruples about telling lies, as from the consideration that, however irksome the gap may be, its obliteration by a fake removes the urge to seek after a tenable answer. So efficiently may attention be diverted that the answer is missed even when, by good luck, it comes close at hand. The steadfastness in standing up to a non liquet, nay in appreciating it as a stimulus and a signpost to further quest, is a natural and indispensable disposition in the mind of a scientist." - Erwin Schrödinger. 'Nature and the Greeks' and 'Science and Humanism' (Canto Classics)
+"In an honest search for knowledge you quite often have to abide by ignorance for an indefinite period. Instead of filling a gap by guesswork, genuine science prefers to put up with it; and this, not so much from conscientious scruples about telling 'lies', as from the consideration that, however irksome the gap may be, its obliteration by a fake removes the urge to seek after a tenable answer. So efficiently may attention be diverted that the answer is missed even when, by good luck, it comes close at hand. The steadfastness in standing up to a non liquet, nay in appreciating it as a stimulus and a signpost to further quest, is a natural and indispensable disposition in the mind of a scientist." - Erwin Schrödinger. 'Nature and the Greeks' and 'Science and Humanism' (Canto Classics)
 
 "[T]he power of a type system arises from its strictures, which can be selectively relaxed, not its affordances, which sacrifice the ability to draw sharp distinctions." - [Bob Harper](https://lists.seas.upenn.edu/pipermail/types-list/2014/001748.html)
 
-**Don’t waste the good days**  
-If you’re feeling creative, do the errands tomorrow.  
-If you’re fit and healthy, take a day to go surfing.  
+**Don't waste the good days**  
+If you're feeling creative, do the errands tomorrow.  
+If you're fit and healthy, take a day to go surfing.  
 When inspiration strikes, write it down.  
-The calendar belongs to everyone else. Their schedule isn’t your schedule unless it helps you get where you’re going.  
+The calendar belongs to everyone else. Their schedule isn't your schedule unless it helps you get where you're going.  
 -- [Seth Godin](https://seth.blog/2021/12/dont-waste-the-good-days/)
 
 "We face no such difficulty if we see that what is being transmitted genetically is not ADD or its equally ill-mannered and discombobulating relatives, but sensitivity. The existence of sensitive people is an advantage for humankind because it is this group that best expresses humanity's creative urges and needs. Through their instinctual responses the world is best interpreted. Under normal circumstances, they are artists or artisans, seekers, inventors, shamans, poets, prophets. There would be valid and powerful evolutionary reasons for the survival of genetic material coding for sensitivity. It is not diseases that are being inherited but a trait of intrinsic survival value to human beings. Sensitivity is transmuted into suffering and disorders only when the world is unable to heed the exquisitely tuned physiological and psychic responses of the sensitive individual." - Gabor Maté, Scattered: How Attention Deficit Disorder Originates And What You Can Do About It
 
-"It is difficult to get a man to understand something, when his salary depends on his not understanding it." - Upton Sinclair
+"The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous." - Edward Gibbon
+
+"A theory appears beautiful or elegant [...] when it's simple; in other words when it can be expressed very concisely in terms of mathematics that we've already learned for some other reasons." - Murray Gell-Mann, [Beauty and Elegance in Physics](https://www.youtube.com/clip/UgkxrEpAYxE8GrYnOPatci8GrYHm1paIiSL0).
+
+"Any sound scientific theory, whether of time or of any other concept, should in my opinion be based on the most workable philosophy of science: the positivist approach put forward by Karl Popper and others. According to this way of thinking, a scientific theory is a mathematical model that describes and codifies the observations we make. A good theory will describe a large range of phenomena on the basis of a few simple postulates and will make definite predictions that can be tested. If the predictions agree with the observations, the theory survives that test, though it can never be proved to be correct." - Stephen Hawking, The Universe in a Nutshell, chapter 2
+
+"Physics is like sex: sure, it may give some practical results, but that's not why we do it." - Richard Feynman
+
+"The commonplace expressions of arithmetic and algebra have a certain simplicity that most communications to computers lack. In particular, (a) each expression has a nesting subexpression structure, (b) each subexpression denotes something (usually a number, truth value or numerical function), (c) the thing an expression denotes, i.e., its 'value', depends only on the values of its subexpressions, not on other properties of them.
+
+It is these properties, and crucially (c), that explains why such expressions are easier to construct and understand. Thus it is (c) that lies behind the evolutionary trend towards 'bigger righthand sides' in place of strings of small, explicitly sequenced assignments and jumps. When faced with a new notation that borrows the functional appearance of everyday algebra, it is (c) that gives us a test for whether the notation is genuinely functional or merely masquerading." - Peter Landin ([The Next 700 Programming languages](http://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf), section 8)
+
+"The possibilities that lie in the future are infinite. When I say 'It is our duty to remain optimists,' this includes not only the openness of the future but also that which all of us contribute to it by everything we do: we are all responsible for what the future holds in store. Thus it is our duty, not to prophesy evil but, rather, to fight for a better world." - Karl Popper, *The Myth of the Framework* (1994), as quoted in *The Beginning of Infinity: Explanations That Transform the World* by David Deutsch (2011)
+
+"If you think you understand something, and don't write down your ideas, you only think you're thinking. To think clearly, you need to be able to write down your ideas clearly, which requires being able to write well." - Leslie Lamport
