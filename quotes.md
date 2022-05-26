@@ -1279,6 +1279,8 @@ The struggle between for and against is the mind's worst disease.
 
 "Simplicity is prerequisite for reliability." - Edsger Dijkstra
 
+"The unavoidable price of reliability is simplicity." - Tony Hoare.
+
 "I think the terminology I would use is 'a continuous process of reflection'. I've always thought of only two questions that have mattered to me personally. One is what is really needed in the world and the second is what's really important to me and how these two intersect. It's always been a reflective process---spiraling around these two poles." - Peter Senge
 
 "Kiss slowly, laugh insanely, live truly, and forgive quickly." - Paulo Coelho
