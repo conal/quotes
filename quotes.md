@@ -1718,3 +1718,9 @@ It is these properties, and crucially (c), that explains why such expressions ar
 "The possibilities that lie in the future are infinite. When I say 'It is our duty to remain optimists,' this includes not only the openness of the future but also that which all of us contribute to it by everything we do: we are all responsible for what the future holds in store. Thus it is our duty, not to prophesy evil but, rather, to fight for a better world." - Karl Popper, *The Myth of the Framework* (1994), as quoted in *The Beginning of Infinity: Explanations That Transform the World* by David Deutsch (2011)
 
 "If you think you understand something, and don't write down your ideas, you only think you're thinking. To think clearly, you need to be able to write down your ideas clearly, which requires being able to write well." - Leslie Lamport
+
+"The view that machines cannot give rise to surprises is due, I believe, to a fallacy to which philosophers and mathematicians are particularly subject. This is the assumption that as soon as a fact is presented to a mind all consequences of that fact spring into the mind simultaneously with it. It is a very useful assumption under many circumstances, but one too easily forgets that it is false." — Alan M. Turing (*Computing machinery and intelligence*, 1950)
+
+"The rate at which a person can mature is directly proportional to the embarrassment he can tolerate." - Douglas Engelbart
+
+"When Einstein died, his greatest rival, Bohr, found for him words of moving admiration. When, a few years later, Bohr in turn died, someone took a photograph of the blackboard in his study. There's a drawing on it. It represents the `box of light' of Einstein's thought experiment. To the very last, the desire to debate, to understand more. To the very last, doubt. ¶ This permanent doubt, the deep source of science." - Carlo Rovelli (*Reality Is Not What It Seems: The Journey to Quantum Gravity*)
