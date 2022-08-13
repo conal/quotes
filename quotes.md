@@ -232,7 +232,7 @@ Kabir
 
 "Love your enemies because they bring out the best in you." - Friedrich Nietzsche
 
-"It's only when we truly know and understand that we have a limited time on earth - and that we have no way of knowing when our time is up, we will then begin to live each day to the fullest, as if it was the only one we had." - Elisabeth Kubler-Ross
+"It's only when we truly know and understand that we have a limited time on earth---and that we have no way of knowing when our time is up, we will then begin to live each day to the fullest, as if it was the only one we had." - Elisabeth Kubler-Ross
 
 "The mind cannot long act the role of the heart." - Francois de la Rochefoucauld
 
@@ -546,13 +546,13 @@ Kabir
 
 "The most erroneous stories are those we think we know best - and therefore never scrutinize or question." - Stephen Jay Gould
 
-"The data stream has been corrupted, return to first principles." - Terence McKenna
+"The data stream has been corrupted. Return to first principles." - Terence McKenna
 
 "Religion is a defense against the experience of God." - Carl Gustav Jung
 
 "The attitude of faith is to let go, and become open to truth, whatever it might turn out to be." - Alan Watts
 
-"The discovery of this reality is hindered rather than helped by belief, whether one believes in God or believes in atheism. We must make here a clear distinction between belief and faith, because, in general practice, belief has come to mean a state of mind which is almost the opposite of faith. Belief, as I use the word here, is the insistence that the truth is what one would 'lief' or wish it to be. The believer will open his mind to the truth on the condition that it fits in with his preconceived ideas and wishes. Faith, on the other hand, is an unreserved opening of the mind to the truth, whatever it may turn out to be. Faith has no preconceptions; it is a plunge into the unknown. Belief clings, but faith lets go. In this sense of the word, faith is the essential virtue of science, and likewise of any religion that is not self-deception." - Alan Watts
+"The discovery of this reality is hindered rather than helped by belief, whether one believes in God or believes in atheism. We must make here a clear distinction between belief and faith, because, in general practice, belief has come to mean a state of mind which is almost the opposite of faith. Belief, as I use the word here, is the insistence that the truth is what one would 'lief' or wish it to be. The believer will open his mind to the truth on the condition that it fits in with his preconceived ideas and wishes. Faith, on the other hand, is an unreserved opening of the mind to the truth, whatever it may turn out to be. Faith has no preconceptions; it is a plunge into the unknown. Belief clings, but faith lets go. In this sense of the word, faith is the essential virtue of science, and likewise of any religion that is not self-deception." - Alan Watts  (*The Wisdom of Insecurity: A Message for an Age of Anxiety*)
 
 "The object of mathematical rigor is to sanction and legitimize the conquests of intuition, and there was never any other object for it." - Jacques Hadamard
 
@@ -1359,7 +1359,7 @@ The struggle between for and against is the mind's worst disease.
 
 "Creativity, as has been said, consists largely of rearranging what we know in order to find out what we do not know. Hence, to think creatively, we must be able to look afresh at what we normally take for granted." - George Kneller
 
-"We all operate in two contrasting modes, which might be called open and closed. The open mode is more relaxed, more receptive, more exploratory, more democratic, more playful and more humorous. The closed mode is the tighter, more rigid, more hierarchical, more tunnel-visioned. Most people, unfortunately spend most of their time in the closed mode. Not that the closed mode cannot be helpful. If you are leaping a ravine, the moment of takeoff is a bad time for considering alternative strategies. When you charge the enemy machine-gun post, don't waste energy trying to see the funny side of it. Do it in the "closed" mode. But the moment the action is over, try to return to the "open" mode—to open your mind again to all the feedback from our action that enables us to tell whether the action has been successful, or whether further action is need to improve on what we have done. In other words, we must return to the open mode, because in that mode we are the most aware, most receptive, most creative, and therefore at our most intelligent." - John Cleese
+"We all operate in two contrasting modes, which might be called open and closed. The open mode is more relaxed, more receptive, more exploratory, more democratic, more playful and more humorous. The closed mode is the tighter, more rigid, more hierarchical, more tunnel-visioned. Most people, unfortunately spend most of their time in the closed mode. Not that the closed mode cannot be helpful. If you are leaping a ravine, the moment of takeoff is a bad time for considering alternative strategies. When you charge the enemy machine-gun post, don't waste energy trying to see the funny side of it. Do it in the "closed" mode. But the moment the action is over, try to return to the "open" mode---to open your mind again to all the feedback from our action that enables us to tell whether the action has been successful, or whether further action is need to improve on what we have done. In other words, we must return to the open mode, because in that mode we are the most aware, most receptive, most creative, and therefore at our most intelligent." - John Cleese
 
 "Discovery consists of seeing what everybody has seen and thinking what nobody has thought." - Albert von Szent-Gyorgy
 
@@ -1640,7 +1640,7 @@ The extraordinary will take care of itself."
 
 "Love yields to busyness. If you seek a way out of love, be busy; you’ll be safe, then." - Ovid, Remedia Amoris (via Julian Kain)
 
-"The creative adult is the child who survived after the world tried killing them, making them grown up. The creative adult is the child who survived the blandness of, the unhelpful words of bad teachers, and the nay-saying ways of the world. The creative adult is in essence simply that, a child." - Ursula Le Guin
+"The creative adult is the child who survived after the world tried killing them, making them "grown up". The creative adult is the child who survived the blandness of schooling, the unhelpful words of bad teachers, and the nay-saying ways of the world. The creative adult is in essence simply that, a child." - Attributed to [but denied by](https://www.ursulakleguin.com/blog/91-the-inner-child-and-the-nude-politician) Ursula Le Guin
 
 "Without a specification, a system cannot be wrong, it can only be surprising." - Gary McGraw
 
@@ -1724,3 +1724,17 @@ It is these properties, and crucially (c), that explains why such expressions ar
 "The rate at which a person can mature is directly proportional to the embarrassment he can tolerate." - Douglas Engelbart
 
 "When Einstein died, his greatest rival, Bohr, found for him words of moving admiration. When, a few years later, Bohr in turn died, someone took a photograph of the blackboard in his study. There's a drawing on it. It represents the 'box of light' of Einstein's thought experiment. To the very last, the desire to debate, to understand more. To the very last, doubt. ¶ This permanent doubt, the deep source of science." - Carlo Rovelli (*Reality Is Not What It Seems: The Journey to Quantum Gravity*)
+
+ >
+There's a thread you follow. It goes among  
+things that change. But it doesn't change.  
+People wonder about what you are pursuing.  
+You have to explain about the thread.  
+But it is hard for others to see.  
+While you hold it you can't get lost.  
+Tragedies happen; people get hurt  
+or die; and you suffer and get old.  
+Nothing you do can stop time's unfolding.  
+You don't ever let go of the thread.
+
+\- William Stafford ("The Way It Is" from *The Way It Is: New and Selected Poems*)
