@@ -1705,7 +1705,7 @@ The calendar belongs to everyone else. Their schedule isn't your schedule unless
 
 "The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous." - Edward Gibbon
 
-"A theory appears beautiful or elegant [...] when it's simple; in other words when it can be expressed very concisely in terms of mathematics that we've already learned for some other reasons." - Murray Gell-Mann, [Beauty and Elegance in Physics](https://www.youtube.com/clip/UgkxrEpAYxE8GrYnOPatci8GrYHm1paIiSL0).
+"A theory appears beautiful or elegant [...] when it's simple; in other words when it can be expressed very concisely in terms of mathematics that we've already learned for some other reasons." - Murray Gell-Mann, [Beauty and Elegance in Physics](https://youtu.be/anHgZru8acg?t=379)
 
 "Any sound scientific theory, whether of time or of any other concept, should in my opinion be based on the most workable philosophy of science: the positivist approach put forward by Karl Popper and others. According to this way of thinking, a scientific theory is a mathematical model that describes and codifies the observations we make. A good theory will describe a large range of phenomena on the basis of a few simple postulates and will make definite predictions that can be tested. If the predictions agree with the observations, the theory survives that test, though it can never be proved to be correct." - Stephen Hawking, The Universe in a Nutshell, chapter 2
 
@@ -1738,3 +1738,13 @@ Nothing you do can stop time's unfolding.
 You don't ever let go of the thread.
 
 \- William Stafford ("The Way It Is" from *The Way It Is: New and Selected Poems*)
+
+"All I know about method is that when I am not working I sometimes think I know something, but when I am working, it is quite clear I know nothing." - John Cage
+
+"The fool who persists in his folly will become wise." - William Blake
+
+"The ultimate reason for teaching kids to write a proof is not that the world is full of proofs. It's that the world is full of non-proofs, and grown-ups need to know the difference. It's hard to settle for a non-proof once you've really familiarized yourself with the genuine article." - Jordan Ellenberg, [*Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else](https://www.goodreads.com/book/show/56430139-shape)
+
+"A proof is crystallized thought. It takes that brilliant buoyant moment of 'getting it' and fixes it to the page so we can contemplate it at leisure. More importantly, we can share it with other people, in whose mind it springs to life again. A proof is like one of those hardy microbial spores so robust they can survive a trip through outer space on a meteorite and colonize a new planet after impact. Proof makes insight portable." - Jordan Ellenberg, [*Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else](https://www.goodreads.com/book/show/56430139-shape)
+
+"Whereof one cannot speak, thereof one must be silent." - Ludwig Wittgenstein, Tractatus Logico-Philosophicus
