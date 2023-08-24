@@ -544,8 +544,6 @@ Kabir
 
 "When I'm working on a problem, I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong." - R. Buckminster Fuller
 
-"The most erroneous stories are those we think we know best - and therefore never scrutinize or question." - Stephen Jay Gould
-
 "The data stream has been corrupted. Return to first principles." - Terence McKenna
 
 "Religion is a defense against the experience of God." - Carl Gustav Jung
