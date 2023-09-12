@@ -1754,4 +1754,4 @@ You don't ever let go of the thread.
 
 "*Don't verify existing code artefacts*. Verifying existing artefacts is more difficult than co-developing a system and its correctness proof. Two factors contribute to this phenomenon. First, when reasoning about an existing system, verification experts have to discover the required properties by spelunking through the code base and documentation. When reasoning about a system being co-developed, the required properties are (relatively) accessible. Second, when coding a system, developers face many choices in how to do things. When they know they have to produce a correctness proof concomitantly, they can make choices that facilitate verification." - Kathleen Fisher, John Launchbury and Raymond Richards in [The HACMS program: using formal methods to eliminate exploitable bugs](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0401)
 
-"You cannot teach a man anything, you can only help him to find it within himself." - Galileo Galilei
+"You cannot teach a man anything; you can only help him to find it within himself." - Galileo Galilei
