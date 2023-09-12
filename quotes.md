@@ -428,7 +428,7 @@ Kabir
 
 "Enlightenment must come little by little---otherwise it would overwhelm." - Idries Shah
               
-"Good judgment comes from experience, and experience comes from bad judgment." - Barry LePatner
+"Good judgment comes from experience, and experience comes from bad judgment." - Anon (many attributions)
 
 "Humanity has been sleeping---and still sleeps---lulled within the narrowly confining joys of its little closed loves. In the depths of the human multitude there slumbers an immense spiritual power which will manifest itself only when we have learnt how to break through the dividing walls of our egoism and raise ourselves up to an entirely new perspective, so that habitually and in a practical fashion we fix our gaze on the universal realities." - Pierre Teilhard de Chardin
 
@@ -1752,4 +1752,6 @@ You don't ever let go of the thread.
 
 "The most savage controversies are those about matters as to which there is no good evidence either way. Persecution is used in theology, not in arithmetic, because in arithmetic there is knowledge, but in theology there is only opinion." - Bertrand Russell, *Unpopular Essays* (1950), quoted in [Bertrand Russell: On Avoiding Foolish Opinions](https://fs.blog/bertrand-russell-on-avoiding-foolish-opinions/).
 
-"*Don’t verify existing code artefacts*. Verifying existing artefacts is more difficult than co-developing a system and its correctness proof. Two factors contribute to this phenomenon. First, when reasoning about an existing system, verification experts have to discover the required properties by spelunking through the code base and documentation. When reasoning about a system being co-developed, the required properties are (relatively) accessible. Second, when coding a system, developers face many choices in how to do things. When they know they have to produce a correctness proof concomitantly, they can make choices that facilitate verification." - Kathleen Fisher, John Launchbury and Raymond Richards in [The HACMS program: using formal methods to eliminate exploitable bugs](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0401)
+"*Don't verify existing code artefacts*. Verifying existing artefacts is more difficult than co-developing a system and its correctness proof. Two factors contribute to this phenomenon. First, when reasoning about an existing system, verification experts have to discover the required properties by spelunking through the code base and documentation. When reasoning about a system being co-developed, the required properties are (relatively) accessible. Second, when coding a system, developers face many choices in how to do things. When they know they have to produce a correctness proof concomitantly, they can make choices that facilitate verification." - Kathleen Fisher, John Launchbury and Raymond Richards in [The HACMS program: using formal methods to eliminate exploitable bugs](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0401)
+
+"You cannot teach a man anything, you can only help him to find it within himself." - Galileo Galilei
