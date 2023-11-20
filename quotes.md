@@ -554,6 +554,8 @@ Kabir
 
 "The object of mathematical rigor is to sanction and legitimize the conquests of intuition, and there was never any other object for it." - Jacques Hadamard
 
+"Logic merely sanctions the conquests of the intuition." - Jacques Hadamard
+
 "Art is the elimination of the unnecessary." - Pablo Picasso
 
 "Art is a lie that makes us realize truth." - Picasso
@@ -1664,6 +1666,8 @@ The extraordinary will take care of itself."
 
 "When you can measure what you are speaking about, and express it in numbers, you know something about it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts advanced to the stage of science." - [Lord Kelvin (William Thomson)](https://www.goodreads.com/quotes/166961-when-you-can-measure-what-you-are-speaking-about-and)
 
+"If you can not measure it, you can not improve it." - attributed to Lord Kelvin (William Thomson)
+
 "In Galileo's time, professors of philosophy and theology---the subjects were inseparable---produced grand discourses on the nature of reality, the structure of the universe, and the way the world works, all based on sophisticated metaphysical arguments. Meanwhile, Galileo measured how fast balls roll down inclined planes. How mundane! But the learned discourses, while grand, were vague. Galileo's investigations were clear and precise. The old metaphysics never progressed, while Galileo's work bore abundant, and at length spectacular, fruit. Galileo too cared about the big questions, but he realized that getting genuine answers requires patience and humility before the facts." - Frank Wilczek, [*The Lightness of Being: Mass, Ether, and the Unification of Forces*](https://www.goodreads.com/book/show/3209381-the-lightness-of-being) (pp. 7-8)
 
 "If a theory has a lot of parameters, you adjust their values to fit a lot of data, and your theory is not really predicting those things, just accommodating them. Scientists use words like curve fitting and fudge factors to describe that sort of activity. Those phrases aren't meant to be flattering. On the other hand, if a theory has just a few parameters but applies to a lot of data, it has real power. You can use a small subset of the measurements to fix the parameters; then all other measurements are uniquely predicted." - Frank Wilczek, [*The Lightness of Being: Mass, Ether, and the Unification of Forces*](https://www.goodreads.com/book/show/3209381-the-lightness-of-being)
@@ -1755,3 +1759,9 @@ You don't ever let go of the thread.
 "*Don't verify existing code artefacts*. Verifying existing artefacts is more difficult than co-developing a system and its correctness proof. Two factors contribute to this phenomenon. First, when reasoning about an existing system, verification experts have to discover the required properties by spelunking through the code base and documentation. When reasoning about a system being co-developed, the required properties are (relatively) accessible. Second, when coding a system, developers face many choices in how to do things. When they know they have to produce a correctness proof concomitantly, they can make choices that facilitate verification." - Kathleen Fisher, John Launchbury and Raymond Richards in [The HACMS program: using formal methods to eliminate exploitable bugs](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0401)
 
 "You cannot teach a man anything; you can only help him to find it within himself." - Galileo Galilei
+
+"The known is finite, the unknown infinite; intellectually we stand on an islet in the midst of an illimitable ocean of inexplicability. Our business in every generation is to reclaim a little more land." —T. H. Huxley, 1887 (quoted in *Cosmos* by Carl Sagan, Neil deGrasse Tyson, and Ann Druyan)
+
+"When you write an algorithm, you need to have a proof that it's correct. An algorithm without a proof is a conjecture; it's not a theorem. And if you're proving things, well, that means mathematics." - Leslie Lamport ([interview](https://youtu.be/rkZzg7Vowao?t=39))
+
+"Those who want really reliable software will discover that they must find means of avoiding the majority of bugs to start with, and as a result the programming process will become cheaper." - Edsger Dijkstra in [The Humble Programmer (ACM Turing Lecture 1972 / EWD340)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
