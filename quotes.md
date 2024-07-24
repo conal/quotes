@@ -492,7 +492,7 @@ Kabir
 
 "The greatest obstacle to discovering the shape of the earth, the continents, and the oceans was not ignorance but the illusion of knowledge." - Daniel J. Boorstin
 
-"In the beginner's mind there are many possibilities, but in the expert's there are few." - Shunryu Suzuki
+"In the beginner's mind there are many possibilities, but in the expert's there are few." - Shunryu Suzuki (*Zen Mind, Beginner's Mind*)
 
 "To get the viewpoint of the other person appreciatively and profoundly and reconcile it with his own so far as possible is the supreme achievement of man and his highest vocation." - Henry Nelson Wieman
 
@@ -1303,7 +1303,7 @@ The struggle between for and against is the mind's worst disease.
 
 "Dialogue requires space, time, and a calm spirit. People need to be given a chance to tune into themselves. Dialogue is a deep process. For me, this requires some quiet and inner peace---and some time for interaction." - Bob Niederman
 
-"If you can't solve a problem, then there's an easier problem you can solve: find it." - George Polya
+"If you can't solve a problem, then there's an easier problem you can solve: find it." - George Pólya
 
 "If you never did, you should. These things are fun and fun is good." - Dr Suess
 
@@ -1765,3 +1765,23 @@ You don't ever let go of the thread.
 "When you write an algorithm, you need to have a proof that it's correct. An algorithm without a proof is a conjecture; it's not a theorem. And if you're proving things, well, that means mathematics." - Leslie Lamport ([interview](https://youtu.be/rkZzg7Vowao?t=39))
 
 "Those who want really reliable software will discover that they must find means of avoiding the majority of bugs to start with, and as a result the programming process will become cheaper." - Edsger Dijkstra in [The Humble Programmer (ACM Turing Lecture 1972 / EWD340)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
+
+"Direction is so much more important than speed. Many are going nowhere fast." - multiple attributions
+
+"Generality from the first, though it may require more thought at the start, will be found in the long run to economise thought and increase logical power." - Bertrand Russell (Introduction to Mathematical Philosophy)
+
+"For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled." - Richard Feynman
+
+"The thing that doesn't fit is the thing that's the most interesting: the part that doesn't go according to what you expected." - Richard Feynman
+
+"Do not keep saying to yourself, if you can possibly avoid it, 'But how can it be like that?', because you will get 'down the drain', into a blind alley from which nobody has yet escaped. Nobody knows how it can be like that." - Richard Feynman
+
+"See that the imagination of nature is far, far greater than the imagination of man." - Richard Feynman
+
+"The idea is to try to give all the information to help others to judge the value of your contribution, not just the information that leads to judgment in one particular direction or another." - Richard Feynman
+
+"First figure out why you want the students to learn the subject and what you want them to know, and the method will result more or less by common sense." - Richard Feynman
+
+"If we attempt to formalise our ideas before we have really sorted out the important concepts, the result, though possibly rigorous, is of very little value---indeed, it may well do more harm than good by making it harder to discover the really important concepts. Our motto should be 'No axiomatization without insight'." - Christopher Strachey (*Fundamental Concepts in Programming Languages*, 1967)
+
+"In mathematics, the art of proposing a question must be held of higher value than solving it." - Georg Cantor
