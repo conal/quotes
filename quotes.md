@@ -1785,3 +1785,7 @@ You don't ever let go of the thread.
 "If we attempt to formalise our ideas before we have really sorted out the important concepts, the result, though possibly rigorous, is of very little value---indeed, it may well do more harm than good by making it harder to discover the really important concepts. Our motto should be 'No axiomatization without insight'." - Christopher Strachey (*Fundamental Concepts in Programming Languages*, 1967)
 
 "In mathematics, the art of proposing a question must be held of higher value than solving it." - Georg Cantor
+
+"What we ordinarily call reality, is merely that slice of total fact which our biological equipment, our linguistic heritage and our social conventions of thought and feeling make it possible for us to apprehend." - Aldous Huxley
+
+"Theories may be equivalent in all their predictions and are hence scientifically indistinguishable. However, different views suggest different kinds of modifications which might be made and hence are not equivalent with respect to the hypotheses one generates from them." - Richard Feynman
